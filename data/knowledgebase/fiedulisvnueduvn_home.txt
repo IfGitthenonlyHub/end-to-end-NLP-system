@@ -3,74 +3,143 @@ TITLE: Tuyển sinh Cử nhân ngành Kinh tế - Tài chính - Khoa Đào tạo
 ------------------------------
 
 Tuyển sinh Cử nhân ngành Kinh tế – Tài chính
+
 1. Đối tượng tuyển sinh
+
 Thí sinh là người Việt Nam hoặc nước ngoài đã tốt nghiệp Trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương THPT; có đủ sức khoẻ để học tập đảm bảo việc học tập; có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định và đáp ứng yêu cầu chất lượng đầu vào các chương trình liên kết đào tạo với nước ngoài theo quy định của Bộ Giáo dục – Đào tạo và ĐHQGHN.
+
 Lưu ý: Đối với các thí sinh có quốc tịch nước ngoài cần đáp ứng đủ các điều kiện đối tượng tuyển sinh và hồ sơ tuyển sinh cần được chứng thực tại cơ quan có thẩm quyền theo quy định và Giấy khám sức khỏe tại bệnh viện tuyến trung ương.
+
 2. Phạm vi tuyển sinh
+
 Trường ĐHNN – ĐHQGHN tuyển sinh các thí sinh trên phạm vi cả nước và nước ngoài theo quy định nêu trên.
+
 3. Điều kiện tuyển sinh
+
 Thí sinh có chứng chỉ Tiếng Anh đạt tối thiểu tương đương trình độ bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam gồm các chứng chỉ: VSTEP 6.0; IELTS 5.5; TOEFL iBT 72 còn trong thời hạn 2 năm.
+
 Lưu ý: Thí sinh chưa có chứng chỉ ngoại ngữ theo yêu cầu sẽ được tiếp nhận vào khóa học Tiếng Anh tăng cường chương trình dự bị tiếng Anh và được chuyển học chuyên ngành khi đáp ứng điều kiện Tiếng Anh như trên.
+
 4. Phương thức và chỉ tiêu tuyển sinh (300 chỉ tiêu):
+
 (i) Xét tuyển sử dụng kết quả kỳ thi tốt nghiệp THPT (175 chỉ tiêu)
+
 Điểm xét tuyển = [(Điểm môn 1 + Điểm môn 2 + (Điểm Ngoại ngữ x 2))/4 x 3] + điểm ưu tiên (nếu có)
+
 (ĐM: điểm môn, ƯT: ưu tiên, KV: khu vực, ĐT: đối tượng)
+
 Năm 2025, điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo công thức:
+
 Điểm ưu tiên = [(30 – Tổng điểm đạt được)/7,5] × Mức điểm ưu tiên theo quy định
+
 Thí sinh trúng tuyển phải xác nhận nhập học trực tuyến, trực tiếp trong thời hạn quy định. Quá thời hạn quy định, thí sinh không xác nhận nhập học được xem như từ chối nhập học và HĐTS được quyền xét tuyển thí sinh khác trong đợt xét tuyển bổ sung.
+
 Thí sinh đăng ký trực tuyến trên Hệ thống tuyển sinh của Bộ GD&ĐT theo hướng dẫn của Bộ GD&ĐT.
+
 (ii) Xét tuyển sử dụng kết quả học tập Trung học phổ thông (100 chỉ tiêu)
+
 Thí sinh sử dụng kết quả học tập ba năm bậc THPT để xét tuyển. Điểm xét tuyển là tổng điểm trung bình kết quả học tập lớp 10, lớp 11, lớp 12 (được quy đổi sang thang 10 cho từng năm) trên thang 30 và cộng điểm ưu tiên theo quy định. Kết quả học tập lớp 10, lớp 11, lớp 12 có trọng số tính điểm xét tuyển như nhau. Điểm xét tuyển được tính theo công thức sau:
+
 Điểm xét tuyển = M1 + M2 + M3  + Điểm ưu tiên (nếu có)
+
 Điểm ưu tiên = [(30 – Tổng điểm đạt được)/7,5] × Mức điểm ưu tiên khu vực, đối tượng
+
 (M1 là điểm trung bình các môn lớp 10; M2 là điểm trung bình các môn lớp 11; M3 là điểm trung bình các môn lớp 12 theo kết quả học tập Trung học phổ thông ghi trong học bạ Trung học phổ thông của thí sinh)
+
 Lưu ý: Thí sinh sẽ có cuộc phỏng vấn với HĐTS sau khi nộp hồ sơ xét tuyển. Thông tin về cuộc phỏng vấn sẽ được gửi tới thí sinh 2 tuần trước khi phỏng vấn.
+
 (iii) Xét tuyển sử dụng kết quả kỳ thi Đánh giá năng lực của Đại học Quốc gia Hà Nội năm 2025 (25 chỉ tiêu)
+
 Điều kiện xét tuyển: Điểm xét tuyển của thí sinh phải cao hơn hoặc bằng ngưỡng đảm bảo chất lượng đầu vào tuyển sinh các ngành đào tạo đại học chính quy năm 2025 do Trường ĐHNN – ĐHQGHN quy định.
+
 5. Nguyên tắc xét tuyển
+
 Xét tuyển từ cao xuống thấp đến khi đủ chỉ tiêu.
+
 Chỉ tiêu tuyển sinh phân bổ đối với từng phương án tuyển sinh như trên có thể thay đổi tùy theo số lượng hồ sơ và nguyện vọng đăng ký của thí sinh và do Hội đồng tuyển sinh đại học chính quy LKQT năm 2025 của Trường Đại học Ngoại ngữ – ĐHQGHN quyết định.
+
 6. Ngành học, học phí, trường cấp bằng, tổ hợp môn xét tuyển
-[TABLE]
+
+[Data Table]:
+
 Ngành học | Học phí | Trường cấp bằng cử nhân – ngôn ngữ đào tạo | Tổ hợp môn xét tuyển | Kinh tế-Tài chính | Dự kiến 65.000.000đ/1 năm | (khóa học: 04 năm**) | ĐH Southern New Hampshire (Hoa Kỳ)** | Ngôn ngữ đào tạo: Tiếng Anh | A01, D01, D78, D14 và các tổ hợp theo các chương trình chính quy khác của Trường ĐHNN – ĐHQGHN
+
 * Học phí trên không bao gồm học phí khóa học Tiếng Anh tăng cường chương trình dự bị tiếng Anh dành cho các sinh viên chưa đạt trình độ ngoại ngữ tương đương trình độ bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (B2 theo Khung tham chiếu ngoại ngữ chung châu Âu).
+
 Học phí trên tương đương 250 USD/1 môn học chuyên ngành. Chương trình đào tạo gồm 40 môn học chuyên ngành. Học phí thu theo từng học kỳ. Số học phí chính xác tính theo Việt Nam Đồng sẽ căn cứ theo tỉ giá quy đổi USD tại thời điểm có thông báo thu học phí.
+
 ** Bằng Cử nhân khoa học ngành Kinh tế – Tài chính do Đại học Southern New Hampshire (Hoa Kỳ) cấp và được Bộ Giáo dục và Đào tạo Việt Nam công nhận theo công văn số 970/KĐCLGD ký ngày 09/06/2014.
+
 Chương trình đào tạo Cử nhân ngành Kinh tế – Tài chính: do Đại học Southern New Hampshire (Hoa Kỳ) cung cấp có thời gian đào tạo là 04 năm, bao gồm 40 môn học chuyên ngành/tổng số 120 tín chỉ (bình quân mỗi năm học 10 môn chuyên ngành).
+
 Lộ trình học tập:
-[TABLE]
-| Khóa học dự bị đại học | Chương trình chính khóa* | Đối tượng | Thời gian học | Ghi chú | Thời gian học | Thời gian tốt nghiệp |   | Chưa có chứng chi tiếng Anh trình độ B2 trở lên | 09/2025 đến 09/2026 | Trong trường hợp ứng viên có chứng chỉ sớm trước tháng 09/2026 sẽ được đăng ký vào lớp học chuyên ngành ở thời điểm sớm nhất có thể. | Theo thông báo cụ thể khi thí sinh nộp chứng chỉ ngoại ngữ. | Theo thông báo cụ thể khi thí sinh nộp chứng chỉ ngoại ngữ. |   | Đãc có chứng chỉ tiếng Anh trình độ B2 trở lên |   |   |  Tháng 11/2025 hoặc tháng 4/2026 | Tháng 07/2029 |   | Tháng 09/2026 | Tháng 11/2029 |
+
+[Data Table]:
+
+| Khóa học dự bị đại học | Chương trình chính khóa* | Đối tượng | Thời gian học | Ghi chú | Thời gian học | Thời gian tốt nghiệp | Chưa có chứng chi tiếng Anh trình độ B2 trở lên | 09/2025 đến 09/2026 | Trong trường hợp ứng viên có chứng chỉ sớm trước tháng 09/2026 sẽ được đăng ký vào lớp học chuyên ngành ở thời điểm sớm nhất có thể. | Theo thông báo cụ thể khi thí sinh nộp chứng chỉ ngoại ngữ. | Theo thông báo cụ thể khi thí sinh nộp chứng chỉ ngoại ngữ. | Đãc có chứng chỉ tiếng Anh trình độ B2 trở lên |   |  Tháng 11/2025 hoặc tháng 4/2026 | Tháng 07/2029 | Tháng 09/2026 | Tháng 11/2029 |
+
 *Trong quá trình học tập, kể từ học kỳ chuyên ngành thứ 5 trở đi, sinh viên đủ điều kiện có thể đăng ký chuyển tiếp sang học tập tại Đại học Southern New Hampshire (Hoa Kỳ) từ 01 – 02 học kỳ (tương đương 6 – 12 tháng)) mà chỉ cần đóng mức học phí như mức tại Việt Nam thay vì đóng học phí như các sinh viên khác đang học tập tại Hoa Kỳ.
+
 Nội dung chương trình học:
+
 Khóa học dự bị đại học:
-[TABLE]
+
+[Data Table]:
+
 STT | Khóa học | STT | Khóa học | 1 | Grammar & Vocabbulary Ngữ pháp tiếng Anh | 6 | VSTEP B2 Preparation Ôn thi VSTEP B2 | 2 | Listening Skills Kỹ năng Nghe tiếng Anh | 7 | Study skills for University Successs Kỹ năng học tập thành công bậc đại học | 3 | Speaking Skills Kỹ năng Nói tiếng Anh | 8 | Academic Writing and Research Skillss Kỹ năng viết học thuật và nghiên cứu | 4 | Reading Skills Kỹ năng Đọc tiếng Anh | 9 | Business English Tiếng Anh kinh tế | 5 | Writing Skills Kỹ năng Viết tiếng Anh | 10 | ICT Skills for Study at University Kỹ năng ứng dụng công nghệ trong học tập bậc đại học
+
 Chương trình chính khóa: Sinh viên theo học 40 môn học được chia thành 08 học kỳ chuyên ngành, các môn học được chia theo các khối kiến thức như sau:
-[TABLE]
-STT | MÃ HỌC PHẦN | TÊN HỌC PHẦN | I | KHỐI KIẾN THỨC NỀN | 1 | ENG 120 | College Composition / | Viết luận đại học | 2 | ENG 200 | Sophomore Seminar/ | Nghiên cứu chuyên đề | 3 | COM 212 | Public Speaking/ | Nghệ thuật nói trước công chúng | 4 | MUS 101 | Music and Meaning/ | Kiến thức âm nhạc | 5 | PCC 201 | Professional Communication and Career Planning/ | Kế hoạch, định hướng nghề nghiệp | 6 | MAT 240 | Business Statistics/ | Thống kê kinh doanh | II | KHỐI KIẾN THỨC CHUNG | II.1 | Nghệ thuật và nhân văn | 7 | LIT 237 | Young Adult Literature/ | Văn học của thế hệ trẻ | 8 | HIS 259 | Silk Roads and Samurai |   | / | Lịch sử giao thương Đông Á | II.2 | Khoa học xã hội – hành vi | 9 | ECO 201 | Microeconomics/ | Kinh tế vi mô | 10 | ECO 202 | Macroeconomics/ | Kinh tế vĩ mô | 11 | PSY 108 | Introduction to Psychology/ | Tâm lý học đại cương | II.3 | Khoa học, Công nghệ, Toán học | 12 | IT 100 | Introduction to Information Technology/ | Công nghệ thông tin | 13 | MAT 130 | Applied Finite Mathematics/ | Toán ứng dụng | III | KHỐI KIẾN THỨC THEO NHÓM NGÀNH KINH TẾ | 14 | ACC 201 | Financial Accounting/ | Kế toán tài chính | 15 | ACC 202 | Managerial Accounting/ | Kế toán quản trị | 16 | BUS 206 | Business Law/ | Luật kinh doanh | 17 | FIN 320 | Principles of Finance/ | Nguyên lý Tài chính | 18 | IT 210 | Business Systems Analysis & Design/ | Phân tích & thiết kế hệ thống kinh doanh | 19 | MKT 113 | Introduction to Marketing/ | Nguyên lý Marketing | 20 | OL 125 | Human Relations in Administration/ | Quan hệ con người trong quản lý | 21 | OL 421 | Strategic Management/ | Quản trị chiến lược | 22 | INT 113 | Introduction to International Business/ | Nguyên lý Kinh doanh quốc tế | 23 | QSO 300 | Introduction to Operations Management/ | Nguyên lý Quản lý điều hành | IV | KHỐI KIẾN THỨC NGÀNH KINH TẾ – TÀI CHÍNH | 24 | ECO 301 | Managerial Economics/ | Kinh tế quản lý | 25 | ECO 306 | Money and Banking/ | Tiền tệ & Ngân hàng | 26 | ECO 402 | Intermediate Macroeconomics/ | Kinh tế vĩ mô trung cấp | 27 | FIN 250 | Personal Finance Planning/ | Hoạch định tài chính cá nhân | 28 | FIN 260 | Risk Management and Insurance/ | Bảo hiểm và quản trị rủi ro | 29 | FIN 330 | Corporate Finance/ | Tài chính doanh nghiệp | 30 | FIN 336 | Multinational Corporate Finance/ | Tài chính doanh nghiệp đa quốc gia | 31 | FIN 340 | Fundamentals of Investments/ | Nguyên lý Đầu tư | 32 | FIN 440 | Investment Analysis/ | Phân tích đầu tư | 33 | MAT 210 | Applied Calculus I/ | Toán kinh tế | V | HỌC PHẦN LỰA CHỌN | 34 | COM 130 | Media Communication and Visual Literacy/ | Truyền thông bằng hình ảnh | 35 | MKT 265 | Social Media and Marketing Communications/ | Truyền thông mạng xã hội | 36 | MKT 433 | Multinational Marketing/ | Marketing đa quốc gia | 37 | INT 316 | Cultural and Political Environment of Business/ | Văn hóa & chính trị trong kinh doanh | 38 | ECO 322 | International Economics/ | Kinh tế quốc tế | 39 | OL 320 | Entrepreneurship/ | Khởi nghiệp kinh doanh | 40 | PHL 316 | Business Ethics/ | Đạo đức kinh doanh
+
+[Data Table]:
+
+STT | MÃ HỌC PHẦN | TÊN HỌC PHẦN | I | KHỐI KIẾN THỨC NỀN | 1 | ENG 120 | College Composition / | Viết luận đại học | 2 | ENG 200 | Sophomore Seminar/ | Nghiên cứu chuyên đề | 3 | COM 212 | Public Speaking/ | Nghệ thuật nói trước công chúng | 4 | MUS 101 | Music and Meaning/ | Kiến thức âm nhạc | 5 | PCC 201 | Professional Communication and Career Planning/ | Kế hoạch, định hướng nghề nghiệp | 6 | MAT 240 | Business Statistics/ | Thống kê kinh doanh | II | KHỐI KIẾN THỨC CHUNG | II.1 | Nghệ thuật và nhân văn | 7 | LIT 237 | Young Adult Literature/ | Văn học của thế hệ trẻ | 8 | HIS 259 | Silk Roads and Samurai | / | Lịch sử giao thương Đông Á | II.2 | Khoa học xã hội – hành vi | 9 | ECO 201 | Microeconomics/ | Kinh tế vi mô | 10 | ECO 202 | Macroeconomics/ | Kinh tế vĩ mô | 11 | PSY 108 | Introduction to Psychology/ | Tâm lý học đại cương | II.3 | Khoa học, Công nghệ, Toán học | 12 | IT 100 | Introduction to Information Technology/ | Công nghệ thông tin | 13 | MAT 130 | Applied Finite Mathematics/ | Toán ứng dụng | III | KHỐI KIẾN THỨC THEO NHÓM NGÀNH KINH TẾ | 14 | ACC 201 | Financial Accounting/ | Kế toán tài chính | 15 | ACC 202 | Managerial Accounting/ | Kế toán quản trị | 16 | BUS 206 | Business Law/ | Luật kinh doanh | 17 | FIN 320 | Principles of Finance/ | Nguyên lý Tài chính | 18 | IT 210 | Business Systems Analysis & Design/ | Phân tích & thiết kế hệ thống kinh doanh | 19 | MKT 113 | Introduction to Marketing/ | Nguyên lý Marketing | 20 | OL 125 | Human Relations in Administration/ | Quan hệ con người trong quản lý | 21 | OL 421 | Strategic Management/ | Quản trị chiến lược | 22 | INT 113 | Introduction to International Business/ | Nguyên lý Kinh doanh quốc tế | 23 | QSO 300 | Introduction to Operations Management/ | Nguyên lý Quản lý điều hành | IV | KHỐI KIẾN THỨC NGÀNH KINH TẾ – TÀI CHÍNH | 24 | ECO 301 | Managerial Economics/ | Kinh tế quản lý | 25 | ECO 306 | Money and Banking/ | Tiền tệ & Ngân hàng | 26 | ECO 402 | Intermediate Macroeconomics/ | Kinh tế vĩ mô trung cấp | 27 | FIN 250 | Personal Finance Planning/ | Hoạch định tài chính cá nhân | 28 | FIN 260 | Risk Management and Insurance/ | Bảo hiểm và quản trị rủi ro | 29 | FIN 330 | Corporate Finance/ | Tài chính doanh nghiệp | 30 | FIN 336 | Multinational Corporate Finance/ | Tài chính doanh nghiệp đa quốc gia | 31 | FIN 340 | Fundamentals of Investments/ | Nguyên lý Đầu tư | 32 | FIN 440 | Investment Analysis/ | Phân tích đầu tư | 33 | MAT 210 | Applied Calculus I/ | Toán kinh tế | V | HỌC PHẦN LỰA CHỌN | 34 | COM 130 | Media Communication and Visual Literacy/ | Truyền thông bằng hình ảnh | 35 | MKT 265 | Social Media and Marketing Communications/ | Truyền thông mạng xã hội | 36 | MKT 433 | Multinational Marketing/ | Marketing đa quốc gia | 37 | INT 316 | Cultural and Political Environment of Business/ | Văn hóa & chính trị trong kinh doanh | 38 | ECO 322 | International Economics/ | Kinh tế quốc tế | 39 | OL 320 | Entrepreneurship/ | Khởi nghiệp kinh doanh | 40 | PHL 316 | Business Ethics/ | Đạo đức kinh doanh
+
 Thông tin về Đại học Southern New Hampshire (Hoa Kỳ):
+
 Đại học Southern New Hampshire được kiểm định bởi Ủy ban giáo dục đại học vùng New England (NECHE).
+
 Chương trình đào tạo của Đại học Southern New Hampshire được Hội đồng Kiểm định các Trường và Chương trình đào tạo về Kinh doanh (𝐀𝐂𝐁𝐒𝐏)
+
 Đại học Southern New Hampshire được U.S News & World Report xếp hạng #1 các trường đại học đổi mới nhất (Most Innovative University) Bắc Mỹ và là một trong những trường đại học vùng tốt nhất (Best Regional Universities) năm 2023.
+
 Địa chỉ:           2500 North River Road, Manchester, NH, 03106, USA
+
 Điện thoại:     6036269100 (số gọi miễn phí: 18006681249)        Fax: 6037210443
+
 Website: https://www.snhu.edu/                  E-mail: info@snhu.edu
+
 7.  Địa điểm đào tạo
+
 Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội
+
 Số 2, Phạm Văn Đồng, Dịch Vọng Hậu, Cầu Giấy, Hà Nội
+
 8. Thời gian nhận hồ sơ đăng ký xét tuyển: từ ngày 21/3/2025 đến ngày 30/9/2025.
+
 9. Hồ sơ xét tuyển nộp trực tuyến tại:     https://bit.ly/xettuyenKTTC2025
+
 10. Phí xét tuyển và ghi danh: 480.000đ/thí sinh.
+
 Vui lòng chuyển khoản lệ phí tại:
+
 Tên tài khoản: TRƯỜNG ĐẠI HỌC NGOẠI NGỮ – ĐH QUỐC GIA HN
+
 Số tài khoản: 2159898988    Tại: Ngân hàng BIDV chi nhánh Cầu Giấy
+
 Khi chuyển khoản xin ghi rõ: Họ tên__ngày sinh_lệ phí xét tuyển KTTC
+
 11. Địa điểm tư vấn tuyển sinh tại:
+
 Khoa Giáo dục Quốc tế, Trường Đại học Ngoại ngữ – ĐHQGHN
+
 Bộ phận tuyển sinh : Phòng 102, nhà A3, Trường Đại học Ngoại ngữ – ĐHQGHN
+
 Hotline: 0986 455 599
+
 🏢  Tầng 1, nhà A3, Trường Đại học Ngoại ngữ – ĐHQGHN, Số 2 đường Phạm Văn Đồng, phường Cầu Giấy, Hà Nội☎️ 0986.45.55.99✉️  fle.ulis@vnu.edu.vn✉️  daotaoboiduong.ulis@gmail.com
+
 Southern New Hampshire
+
 Tuyển sinh Đại học
+
 Tuyển sinh Sau đại học
-Scroll to Top

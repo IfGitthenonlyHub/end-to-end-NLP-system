@@ -2,397 +2,180 @@ SOURCE: https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learni
 TITLE: International Conference on Machine Learning - Wikipedia
 ------------------------------
 
-[TABLE]
+[Data Table]:
+
 International Conference on Machine Learning | Abbreviation | ICML | Discipline | Machine learning | , | artificial intelligence | , | feature learning | Publication details | History | 1980–present | Frequency | Annual | Open access | yes (on openreview.net) | Website | https://icml.cc/
-[TABLE]
-Part of a series on | Machine learning | and | data mining |
-| Paradigms |
-| Supervised learning |
-| Unsupervised learning |
-| Semi-supervised learning |
-| Self-supervised learning |
-| Reinforcement learning |
-| Meta-learning |
-| Online learning |
-| Batch learning |
-| Curriculum learning |
-| Rule-based learning |
-| Neuro-symbolic AI |
-| Neuromorphic engineering |
-| Quantum machine learning |
-| Problems |
-| Classification |
-| Generative modeling |
-| Regression |
-| Clustering |
-| Dimensionality reduction |
-| Density estimation |
-| Anomaly detection |
-| Data cleaning |
-| AutoML |
-| Association rules |
-| Semantic analysis |
-| Structured prediction |
-| Feature engineering |
-| Feature learning |
-| Learning to rank |
-| Grammar induction |
-| Ontology learning |
-| Multimodal learning |
-| Supervised learning | ( | classification |  • | regression | ) | |
-| Apprenticeship learning |
-| Decision trees |
-| Ensembles |
-| Bagging |
-| Boosting |
-| Random forest |
-| k | -NN |
-| Linear regression |
-| Naive Bayes |
-| Artificial neural networks |
-| Logistic regression |
-| Perceptron |
-| Relevance vector machine (RVM) |
-| Support vector machine (SVM) |
-| Clustering |
-| BIRCH |
-| CURE |
-| Hierarchical |
-| k | -means |
-| Fuzzy |
-| Expectation–maximization (EM) |
-| DBSCAN |
-| OPTICS |
-| Mean shift |
-| Dimensionality reduction |
-| Factor analysis |
-| CCA |
-| ICA |
-| LDA |
-| NMF |
-| PCA |
-| PGD |
-| t-SNE |
-| SDL |
-| Structured prediction |
-| Graphical models |
-| Bayes net |
-| Conditional random field |
-| Hidden Markov |
-| Anomaly detection |
-| RANSAC |
-| k | -NN |
-| Local outlier factor |
-| Isolation forest |
-| Neural networks |
-| Autoencoder |
-| Deep learning |
-| Feedforward neural network |
-| Recurrent neural network |
-| LSTM |
-| GRU |
-| ESN |
-| reservoir computing |
-| Boltzmann machine |
-| Restricted |
-| GAN |
-| Diffusion model |
-| SOM |
-| Convolutional neural network |
-| U-Net |
-| LeNet |
-| AlexNet |
-| DeepDream |
-| Neural field |
-| Neural radiance field |
-| Physics-informed neural networks |
-| Transformer |
-| Vision |
-| Mamba |
-| Spiking neural network |
-| Memtransistor |
-| Electrochemical RAM | (ECRAM) |
-| Reinforcement learning |
-| Q-learning |
-| Policy gradient |
-| SARSA |
-| Temporal difference (TD) |
-| Multi-agent |
-| Self-play |
-| Learning with humans |
-| Active learning |
-| Crowdsourcing |
-| Human-in-the-loop |
-| Mechanistic interpretability |
-| RLHF |
-| Model diagnostics |
-| Coefficient of determination |
-| Confusion matrix |
-| Learning curve |
-| ROC curve |
-| Mathematical foundations |
-| Kernel machines |
-| Bias–variance tradeoff |
-| Computational learning theory |
-| Empirical risk minimization |
-| Occam learning |
-| PAC learning |
-| Statistical learning |
-| VC theory |
-| Topological deep learning |
-| Journals and conferences |
-| AAAI |
-| ECML PKDD |
-| NeurIPS |
-| ICML |
-| ICLR |
-| IJCAI |
-| ML |
-| JMLR |
-| Glossary of artificial intelligence |
-| List of datasets for machine-learning research |
-| List of datasets in computer vision and image processing |
-| Outline of machine learning |
-| v | t | e
+
+[Data Table]:
+
+Part of a series on | Machine learning | and | data mining | Paradigms | Supervised learning | Unsupervised learning | Semi-supervised learning | Self-supervised learning | Reinforcement learning | Meta-learning | Online learning | Batch learning | Curriculum learning | Rule-based learning | Neuro-symbolic AI | Neuromorphic engineering | Quantum machine learning | Problems | Classification | Generative modeling | Regression | Clustering | Dimensionality reduction | Density estimation | Anomaly detection | Data cleaning | AutoML | Association rules | Semantic analysis | Structured prediction | Feature engineering | Feature learning | Learning to rank | Grammar induction | Ontology learning | Multimodal learning | Supervised learning | ( | classification |  • | regression | ) |
+
+| Apprenticeship learning | Decision trees | Ensembles | Bagging | Boosting | Random forest | k | -NN | Linear regression | Naive Bayes | Artificial neural networks | Logistic regression | Perceptron | Relevance vector machine (RVM) | Support vector machine (SVM) | Clustering | BIRCH | CURE | Hierarchical | k | -means | Fuzzy | Expectation–maximization (EM) | DBSCAN | OPTICS | Mean shift | Dimensionality reduction | Factor analysis | CCA | ICA | LDA | NMF | PCA | PGD | t-SNE | SDL | Structured prediction | Graphical models | Bayes net | Conditional random field | Hidden Markov | Anomaly detection | RANSAC | k | -NN | Local outlier factor | Isolation forest | Neural networks | Autoencoder | Deep learning | Feedforward neural network | Recurrent neural network | LSTM | GRU | ESN | reservoir computing | Boltzmann machine | Restricted | GAN | Diffusion model | SOM | Convolutional neural network | U-Net | LeNet | AlexNet | DeepDream | Neural field | Neural radiance field | Physics-informed neural networks | Transformer | Vision | Mamba | Spiking neural network | Memtransistor | Electrochemical RAM | (ECRAM) | Reinforcement learning | Q-learning | Policy gradient | SARSA | Temporal difference (TD) | Multi-agent | Self-play | Learning with humans | Active learning | Crowdsourcing | Human-in-the-loop | Mechanistic interpretability | RLHF | Model diagnostics | Coefficient of determination | Confusion matrix | Learning curve | ROC curve | Mathematical foundations | Kernel machines | Bias–variance tradeoff | Computational learning theory | Empirical risk minimization | Occam learning | PAC learning | Statistical learning | VC theory | Topological deep learning | Journals and conferences | AAAI | ECML PKDD | NeurIPS | ICML | ICLR | IJCAI | ML | JMLR | Glossary of artificial intelligence | List of datasets for machine-learning research | List of datasets in computer vision and image processing | Outline of machine learning | v | t | e
+
 (classification • regression)
+
 Apprenticeship learning
+
 Decision trees
+
 Ensembles
+
 Bagging
+
 Boosting
+
 Random forest
+
 Linear regression
+
 Naive Bayes
+
 Artificial neural networks
+
 Logistic regression
+
 Relevance vector machine (RVM)
+
 Support vector machine (SVM)
+
 Hierarchical
+
 Expectation–maximization (EM)
+
 Factor analysis
+
 Graphical models
+
 Bayes net
+
 Conditional random field
+
 Hidden Markov
+
 Local outlier factor
+
 Isolation forest
+
 Autoencoder
+
 Deep learning
+
 Feedforward neural network
+
 Recurrent neural network
+
 reservoir computing
+
 Boltzmann machine
+
 Restricted
+
 Diffusion model
+
 Convolutional neural network
+
 AlexNet
+
 DeepDream
+
 Neural field
+
 Neural radiance field
+
 Physics-informed neural networks
+
 Transformer
+
 Vision
+
 Spiking neural network
+
 Memtransistor
+
 Electrochemical RAM (ECRAM)
+
 Policy gradient
+
 Temporal difference (TD)
+
 Multi-agent
+
 Self-play
+
 Active learning
+
 Crowdsourcing
+
 Human-in-the-loop
+
 Mechanistic interpretability
+
 Coefficient of determination
+
 Confusion matrix
+
 Learning curve
+
 Kernel machines
+
 Bias–variance tradeoff
+
 Computational learning theory
+
 Empirical risk minimization
+
 Occam learning
+
 PAC learning
+
 Statistical learning
+
 Topological deep learning
+
 Glossary of artificial intelligence
+
 List of datasets for machine-learning research
+
 List of datasets in computer vision and image processing
+
 Outline of machine learning
-The International Conference on Machine Learning (ICML) is an international academic conference in machine learning held annually since 1980.[1] It is the oldest and, along with NeurIPS and ICLR, one of the three primary conferences of highest impact and reputation in machine learning and artificial intelligence research.[2] It is organized by the International Machine Learning Society (IMLS). Precise dates vary year to year, but paper submissions are generally due at the end of January, and the conference is generally held the following July.
-ICML began as the International Workshop on Machine Learning, first held at Carnegie Mellon University in Pittsburgh in July 1980 and organized by Jaime Carbonell, Ryszard S. Michalski, and Tom M. Mitchell. In 1993 it transitioned to a full conference series under the current name, building on nearly a decade of workshops.  Since the 2010s its proceedings have been published open-access in the Proceedings of Machine Learning Research (PMLR), which grew out of JMLR’s Workshop & Conference Proceedings and was renamed PMLR in 2015.[1][3]
+
+The International Conference on Machine Learning (ICML) is an international academic conference in machine learning held annually since 1980. It is the oldest and, along with NeurIPS and ICLR, one of the three primary conferences of highest impact and reputation in machine learning and artificial intelligence research. It is organized by the International Machine Learning Society (IMLS). Precise dates vary year to year, but paper submissions are generally due at the end of January, and the conference is generally held the following July.
+
+ICML began as the International Workshop on Machine Learning, first held at Carnegie Mellon University in Pittsburgh in July 1980 and organized by Jaime Carbonell, Ryszard S. Michalski, and Tom M. Mitchell. In 1993 it transitioned to a full conference series under the current name, building on nearly a decade of workshops.  Since the 2010s its proceedings have been published open-access in the Proceedings of Machine Learning Research (PMLR), which grew out of JMLR’s Workshop & Conference Proceedings and was renamed PMLR in 2015.
+
 ICML has published many important research papers that form the foundation of modern Artificial Intelligence. Some notable works include Lawrence Berkeley National Laboratory's K-means clustering via PCA (ICML 2004); Google's Batch Normalization; Google Brain's EfficientNet (ICML 2019); OpenAI's CLIP (ICML 2021) and the University of Berkeley's Soft Actor-Critic (ICML 2018).
-The number of submitted (and accepted) papers has sharply increased within 10 years; from 1037 (270) in 2015 to 12107 (3260) in 2025. Meanwhile, the acceptance rate continues to averages between 21 % (2020) and 30 % (2024).[4] 2026 marked a new record with 24,371 submitted papers, more than doubling the previous year.[5] Accepted submissions are presented on-site as posters; furthermore, particularly outstanding contributions are presented orally or are designated by a committee as "spotlight papers." In 2026, 2.2% of submitted contributions were designated as "spotlight".[6]
+
+The number of submitted (and accepted) papers has sharply increased within 10 years; from 1037 (270) in 2015 to 12107 (3260) in 2025. Meanwhile, the acceptance rate continues to averages between 21 % (2020) and 30 % (2024). 2026 marked a new record with 24,371 submitted papers, more than doubling the previous year. Accepted submissions are presented on-site as posters; furthermore, particularly outstanding contributions are presented orally or are designated by a committee as "spotlight papers." In 2026, 2.2% of submitted contributions were designated as "spotlight".
+
 ICML’s scope spans the full breadth of machine learning, with particular emphasis on theoretical analysis, algorithmic innovation, and statistical learning. Compared to the other two big machine learning conferences NeurIPS and ICLR, ICML traditionally features more content on statistical learning theory, reinforcement learning and robotics, and optimization theory. Its annual proceedings are published in the open-access Proceedings of Machine Learning Research (PMLR).
+
 ICML attracts sponsors seeking access to ML research and talent. Technology companies such as Google, Microsoft, Amazon, Meta, Apple are among sponsors, regularly publishing their research and recruiting researchers at the conference. Financial firms, such as Citadel Securities, Jane Street Capital and D.E. Shaw, also often have a presence at ICML.
-[TABLE]
-| Year |
-| Location |
-| Country |
-| Submissions | [ | 7 | ] |
-| Accepted |
-| Acceptance rate
-| 2026 |
-| Seoul | [ | 8 | ] |
-| | South Korea |
-| 23,918 | [ | 6 | ] |
-| 6352 |
-| 26.6%
-| 2025 |
-| Vancouver |
-| | Canada |
-| 12,107 |
-| 3260 |
-| 26.93%
-| 2024 |
-| Vienna |
-| | Austria |
-| 9653 |
-| 2944 |
-| 30.50%
-| 2023 |
-| Honolulu |
-| | United States |
-| 6538 |
-| 1828 |
-| 27.96%
-| 2022 |
-| Baltimore |
-| | United States |
-| 5630 |
-| 1233 |
-| 21.90%
-| 2021 |
-| Vienna (virtual) |
-| | Austria |
-| 5513 |
-| 1183 |
-| 21.46%
-| 2020 |
-| Vienna (virtual) |
-| | Austria |
-| 4990 |
-| 1084 |
-| 21.72%
-| 2019 |
-| Los Angeles |
-| | United States |
-| 3424 |
-| 773 |
-| 22.58%
-| 2018 |
-| Stockholm |
-| | Sweden |
-| 2473 |
-| 621 |
-| 25.11%
-| 2017 |
-| Sydney |
-| | Australia |
-| 1676 |
-| 434 |
-| 25.89%
-| 2016 |
-| New York City |
-| | United States |
-| 322 |
-| 2015 |
-| Lille |
-| | France |
-| 1037 |
-| 270 |
-| 26.04%
-| 2014 |
-| Beijing |
-| | China |
-| 310 |
-| 2013 |
-| Atlanta |
-| | United States |
-| 283 |
-| 2012 |
-| Edinburgh |
-| | United Kingdom |
-| 2011 |
-| Bellevue |
-| | United States |
-| 2010 |
-| Haifa |
-| | Israel |
-| 2009 |
-| Montréal |
-| | Canada |
-| 2008 |
-| Helsinki |
-| | Finland |
-| 2007 |
-| Corvallis |
-| | United States |
-| 2006 |
-| Pittsburgh |
-| | United States |
-| 2005 |
-| Bonn |
-| | Germany |
-| 2004 |
-| Banff |
-| | Canada |
-| 2003 |
-| Washington, D.C. |
-| | United States |
-| 2002 |
-| Sydney |
-| | Australia |
-| 2001 |
-| Williamstown |
-| | United States |
-| 2000 |
-| Stanford |
-| | United States |
-| 1999 |
-| Bled |
-| | Slovenia |
-| 1998 |
-| Madison |
-| | United States |
-| 1997 |
-| Nashville |
-| | United States |
-| 1996 |
-| Bari |
-| | Italy |
-| 1995 |
-| Tahoe City |
-| | United States |
-| 1994 |
-| New Brunswick |
-| | United States |
-| 1993 |
-| Amherst |
-| | United States |
-| 1992 |
-| Aberdeen |
-| | United Kingdom |
-| 1991 |
-| Evanston |
-| | United States |
-| 1990 |
-| Austin |
-| | United States |
-| 1989 |
-| Ithaca |
-| | United States |
-| 1988 |
-| Ann Arbor |
-| | United States |
-| 1987 |
-| Irvine |
-| | United States |
-| 1985 |
-| Skytop |
-| | United States |
-| 1983 |
-| Monticello |
-| | United States |
-| 1980 |
-| Pittsburgh |
-| | United States |
+
+[Data Table]:
+
+| Year | Location | Country | Submissions | [ | 7 | ] | Accepted | Acceptance rate
+
+| 2026 | Seoul | [ | 8 | ] | | South Korea | 23,918 | [ | 6 | ] | 6352 | 26.6%
+
+| 2025 | Vancouver | | Canada | 12,107 | 3260 | 26.93%
+
+| 2024 | Vienna | | Austria | 9653 | 2944 | 30.50%
+
+| 2023 | Honolulu | | United States | 6538 | 1828 | 27.96%
+
+| 2022 | Baltimore | | United States | 5630 | 1233 | 21.90%
+
+| 2021 | Vienna (virtual) | | Austria | 5513 | 1183 | 21.46%
+
+| 2020 | Vienna (virtual) | | Austria | 4990 | 1084 | 21.72%
+
+| 2019 | Los Angeles | | United States | 3424 | 773 | 22.58%
+
+| 2018 | Stockholm | | Sweden | 2473 | 621 | 25.11%
+
+| 2017 | Sydney | | Australia | 1676 | 434 | 25.89%
+
+| 2016 | New York City | | United States | 322 | 2015 | Lille | | France | 1037 | 270 | 26.04%
+
+| 2014 | Beijing | | China | 310 | 2013 | Atlanta | | United States | 283 | 2012 | Edinburgh | | United Kingdom | 2011 | Bellevue | | United States | 2010 | Haifa | | Israel | 2009 | Montréal | | Canada | 2008 | Helsinki | | Finland | 2007 | Corvallis | | United States | 2006 | Pittsburgh | | United States | 2005 | Bonn | | Germany | 2004 | Banff | | Canada | 2003 | Washington, D.C. | | United States | 2002 | Sydney | | Australia | 2001 | Williamstown | | United States | 2000 | Stanford | | United States | 1999 | Bled | | Slovenia | 1998 | Madison | | United States | 1997 | Nashville | | United States | 1996 | Bari | | Italy | 1995 | Tahoe City | | United States | 1994 | New Brunswick | | United States | 1993 | Amherst | | United States | 1992 | Aberdeen | | United Kingdom | 1991 | Evanston | | United States | 1990 | Austin | | United States | 1989 | Ithaca | | United States | 1988 | Ann Arbor | | United States | 1987 | Irvine | | United States | 1985 | Skytop | | United States | 1983 | Monticello | | United States | 1980 | Pittsburgh | | United States |
