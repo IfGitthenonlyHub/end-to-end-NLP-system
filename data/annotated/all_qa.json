@@ -1,0 +1,510 @@
+[
+  {
+    "question": "Where is Carnegie Mellon University located",
+    "answer": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "question": "What year was Carnegie Mellon University established",
+    "answer": "1900"
+  },
+  {
+    "question": "How many students did Carnegie Mellon enroll in 2022",
+    "answer": "15,818"
+  },
+  {
+    "question": "What is the name of the business school at Carnegie Mellon",
+    "answer": "Tepper School"
+  },
+  {
+    "question": "Who founded the Carnegie Technical Schools",
+    "answer": "Andrew Carnegie"
+  },
+  {
+    "question": "What is the name of the college of humanities and social sciences",
+    "answer": "Dietrich College"
+  },
+  {
+    "question": "In what year did Carnegie Mellon launch the \"Insp!re Innovation\" campaign",
+    "answer": "2003"
+  },
+  {
+    "question": "Who is the current namesake of the Computational Biology department",
+    "answer": "Ray and Stephanie Lane"
+  },
+  {
+    "question": "What is the full form of ICML",
+    "answer": "International Conference"
+  },
+  {
+    "question": "In which year was the International Conference on Machine Learning first held",
+    "answer": "1980"
+  },
+  {
+    "question": "What is the frequency of the International Conference on Machine Learning",
+    "answer": "Annual"
+  },
+  {
+    "question": "Is the International Conference on Machine Learning open access",
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the name of the organization that organizes ICML",
+    "answer": "International Machine Learning Society"
+  },
+  {
+    "question": "Where was the first International Workshop on Machine Learning held",
+    "answer": "Carnegie Mellon University"
+  },
+  {
+    "question": "What is the name of the proceedings where ICML papers are published",
+    "answer": "Proceedings of Machine Learning Research"
+  },
+  {
+    "question": "What is the average acceptance rate of ICML",
+    "answer": "21-30%"
+  },
+  {
+    "question": "What is Pittsburgh known as due to its dominant role in the history of the U.S. steel industry",
+    "answer": "Steel City"
+  },
+  {
+    "question": "How many bridges are in Pittsburgh, earning it the nickname \"City of Bridges\"",
+    "answer": "446 bridges"
+  },
+  {
+    "question": "What is the population of Pittsburgh according to the 2020 census",
+    "answer": "302,971"
+  },
+  {
+    "question": "What is the name of the river formed by the confluence of the Allegheny and Monongahela Rivers",
+    "answer": "Ohio River"
+  },
+  {
+    "question": "Who named the city of Pittsburgh in 1758",
+    "answer": "John Forbes"
+  },
+  {
+    "question": "What was the name of the fort built by General John Forbes in 1758",
+    "answer": "Fort Pitt"
+  },
+  {
+    "question": "In what year was Pittsburgh incorporated as a borough",
+    "answer": "1794"
+  },
+  {
+    "question": "What was the name of the expedition led by Meriwether Lewis that began preparations in Pittsburgh in 1803",
+    "answer": "Lewis and Clark Expedition"
+  },
+  {
+    "question": "Đối tượng nào được tuyển sinh vào chương trình Cử nhân ngành Kinh tế – Tài chính?",
+    "answer": "Thí sinh Việt Nam hoặc nước ngoài"
+  },
+  {
+    "question": "Phạm vi tuyển sinh của Trường ĐHNN – ĐHQGHN là gì?",
+    "answer": "Cả nước và nước ngoài"
+  },
+  {
+    "question": "Điều kiện xét tuyển sử dụng kết quả kỳ thi tốt nghiệp THPT là gì?",
+    "answer": "Điểm xét tuyển từ 22,5"
+  },
+  {
+    "question": "Phương thức xét tuyển sử dụng kết quả học tập Trung học phổ thông là gì?",
+    "answer": "Tổng điểm trung bình"
+  },
+  {
+    "question": "Chỉ tiêu tuyển sinh cho phương thức xét tuyển sử dụng kết quả kỳ thi tốt nghiệp THPT là bao nhiêu?",
+    "answer": "175 chỉ tiêu"
+  },
+  {
+    "question": "Học phí của chương trình Cử nhân ngành Kinh tế – Tài chính là bao nhiêu?",
+    "answer": "65.000.000đ/1 năm"
+  },
+  {
+    "question": "Trường nào cấp bằng Cử nhân khoa học ngành Kinh tế – Tài chính?",
+    "answer": "Đại học Southern New Hampshire"
+  },
+  {
+    "question": "Thời gian đào tạo của chương trình Cử nhân ngành Kinh tế – Tài chính là bao lâu?",
+    "answer": "04 năm"
+  },
+  {
+    "question": "Tên trường đại học được đề cập trong tài liệu",
+    "answer": "Trường ĐHKHTN"
+  },
+  {
+    "question": "Địa chỉ trang web của Trường ĐHKHTN",
+    "answer": "https://hus.vnu.edu.vn/"
+  },
+  {
+    "question": "Phương thức xét tuyển của Trường ĐHKHTN",
+    "answer": "6 phương thức"
+  },
+  {
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT cho ngành Toán học",
+    "answer": "A00; A01; C01; D07; D08; X26"
+  },
+  {
+    "question": "Tên ngành xét tuyển với mã QHT01",
+    "answer": "Toán học"
+  },
+  {
+    "question": "Địa chỉ email liên hệ tuyển sinh",
+    "answer": "tuvantuyensinh@hus.edu.vn"
+  },
+  {
+    "question": "Số điện thoại hotline tuyển sinh",
+    "answer": "0886074527"
+  },
+  {
+    "question": "Tên của phương thức xét tuyển thứ 2",
+    "answer": "Xét kết quả thi tốt nghiệp THPT năm 2026"
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có chức năng nhiệm vụ gì",
+    "answer": "Tổ chức đào tạo đại học"
+  },
+  {
+    "question": "Quy chế tuyển sinh đại học tại Đại học Quốc gia Hà Nội được ban hành dựa trên những căn cứ nào",
+    "answer": "Luật Giáo dục"
+  },
+  {
+    "question": "Quyết định số /QĐ-ĐHQGHN ngày tháng năm 2026 của Giám đốc Đại học Quốc gia Hà Nội có hiệu lực từ khi nào",
+    "answer": "Ngày ký"
+  },
+  {
+    "question": "Quy chế tuyển sinh đại học tại Đại học Quốc gia Hà Nội áp dụng cho những đối tượng nào",
+    "answer": "Các đơn vị đào tạo"
+  },
+  {
+    "question": "Phương thức tuyển sinh là gì",
+    "answer": "Sử dụng kết quả học tập"
+  },
+  {
+    "question": "Điểm ưu tiên là gì",
+    "answer": "Mức điểm thí sinh được hưởng"
+  },
+  {
+    "question": "Xét tuyển thẳng là gì",
+    "answer": "Xét tuyển hồ sơ thí sinh"
+  },
+  {
+    "question": "Thông tin tuyển sinh năm 2026 của trường nào",
+    "answer": "Trường ĐHKHXH&NV"
+  },
+  {
+    "question": "Mã xét tuyển của ngành Báo chí là gì",
+    "answer": "QHX01"
+  },
+  {
+    "question": "Tổ hợp xét tuyển của ngành Chính trị học",
+    "answer": "D01, D09, D10, D11, D14, D15, C00"
+  },
+  {
+    "question": "Tên chương trình, ngành xét tuyển của mã QHX03",
+    "answer": "Công tác xã hội"
+  },
+  {
+    "question": "Mã ngành của ngành Đông Nam Á học",
+    "answer": "7310620"
+  },
+  {
+    "question": "Điều kiện để được xét tuyển thẳng",
+    "answer": "Theo Điều 8"
+  },
+  {
+    "question": "Năm thông báo về việc nhận hồ sơ xét tuyển thí sinh thuộc diện dự bị đại học dân tộc",
+    "answer": "2026"
+  },
+  {
+    "question": "Phương thức tuyển sinh được quy đổi điểm xét tuyển",
+    "answer": "Phương thức 401 và 301"
+  },
+  {
+    "question": "Trường Đại học Công nghệ thuộc nào",
+    "answer": "Đại học Quốc gia Hà Nội"
+  },
+  {
+    "question": "Năm nào Trường Đại học Công nghệ ban hành Thông tin tuyển sinh đại học chính quy",
+    "answer": "2026"
+  },
+  {
+    "question": "Đối tượng dự tuyển vào Trường Đại học Công nghệ là những ai",
+    "answer": "Người đã tốt nghiệp THPT"
+  },
+  {
+    "question": "Điều kiện dự tuyển vào Trường Đại học Công nghệ",
+    "answer": "Đạt ngưỡng đầu vào"
+  },
+  {
+    "question": "Phương thức tuyển sinh của Trường Đại học Công nghệ",
+    "answer": "Xét tuyển thẳng"
+  },
+  {
+    "question": "Trường Đại học Công nghệ sử dụng kết quả gì để xét tuyển",
+    "answer": "Kỳ thi tốt nghiệp THPT"
+  },
+  {
+    "question": "Chứng chỉ tiếng Anh quốc tế nào được quy đổi thành điểm môn tiếng Anh",
+    "answer": "IELTS"
+  },
+  {
+    "question": "Thời hạn sử dụng chứng chỉ tiếng Anh quốc tế",
+    "answer": "2 năm"
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào",
+    "answer": "1993"
+  },
+  {
+    "question": "Tên tiếng Anh của Đại học Quốc gia Hà Nội là gì",
+    "answer": "VNU"
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có trụ sở tại đâu",
+    "answer": "Hà Nội"
+  },
+  {
+    "question": "Tiền thân của Đại học Quốc gia Hà Nội là gì",
+    "answer": "Viện Đại học Đông Dương"
+  },
+  {
+    "question": "Năm thành lập Viện Đại học Đông Dương",
+    "answer": "1906"
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội được đánh giá là một trong những cơ sở giáo dục đại học hàng đầu đất nước",
+    "answer": "Đúng"
+  },
+  {
+    "question": "Số lượng giải thưởng Olympic quốc tế và khu vực của cựu học sinh Đại học Quốc gia Hà Nội",
+    "answer": "323"
+  },
+  {
+    "question": "Huân chương cao quý nhất của Nhà nước Việt Nam được trao tặng cho Đại học Quốc gia Hà Nội",
+    "answer": "Huân chương Sao Vàng"
+  },
+  {
+    "question": "Trường nào của ĐHQGHN liên kết với Đại học Troy",
+    "answer": "Trường ĐH Kinh tế"
+  },
+  {
+    "question": "Quốc gia nào có Đại học Massey",
+    "answer": "New Zealand"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết với Đại học Uppsala",
+    "answer": "Quản lý công"
+  },
+  {
+    "question": "Trình độ đào tạo của chương trình liên kết với Trường Đại học Benedictine",
+    "answer": "Thạc sĩ"
+  },
+  {
+    "question": "Đơn vị nào của ĐHQGHN liên kết với Đại học Picardie Jules Verne",
+    "answer": "Trường ĐH Ngoại ngữ"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết với Đại học Southern New Hampshire",
+    "answer": "Kinh tế - Tài chính"
+  },
+  {
+    "question": "Quốc gia nào có Đại học SP Thiểm Tây",
+    "answer": "Trung Quốc"
+  },
+  {
+    "question": "Trình độ đào tạo của chương trình liên kết với Trường Đại học Quảng Tây",
+    "answer": "Cử nhân"
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội là trung tâm đào tạo và nghiên cứu khoa học nào",
+    "answer": "Đa ngành, đa lĩnh vực"
+  },
+  {
+    "question": "Số lượng chương trình đào tạo đại học của ĐHQGHN là bao nhiêu",
+    "answer": "190 chương trình"
+  },
+  {
+    "question": "Tỷ lệ quy mô đào tạo sau đại học của ĐHQGHN là bao nhiêu",
+    "answer": "33.88%"
+  },
+  {
+    "question": "Số lượng sinh viên tốt nghiệp chương trình đào tạo tài năng của ĐHQGHN mỗi năm là bao nhiêu",
+    "answer": "5.000 cử nhân"
+  },
+  {
+    "question": "Các ngành mới của ĐHQGHN bao gồm những lĩnh vực nào",
+    "answer": "Khoa học Môi trường, Toán - Tin"
+  },
+  {
+    "question": "Số lượng học sinh trung học phổ thông năng khiếu về khoa học tự nhiên và ngoại ngữ tốt nghiệp mỗi năm là bao nhiêu",
+    "answer": "Trên 800"
+  },
+  {
+    "question": "ĐHQGHN đã phối hợp với các trường đại học nước ngoài nào để đào tạo thạc sỹ",
+    "answer": "Các trường đại học có uy tín cao"
+  },
+  {
+    "question": "Mục tiêu của ĐHQGHN trong việc đào tạo nguồn nhân lực là gì",
+    "answer": "Đáp ứng yêu cầu phát triển kinh tế - xã hội"
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào",
+    "answer": "1993"
+  },
+  {
+    "question": "Trường Đại học nào trực tiếp kế thừa truyền thống và cơ sở vật chất của Đại học Đông Dương",
+    "answer": "Trường Đại học Tổng hợp Hà Nội"
+  },
+  {
+    "question": "ĐHQGHN có những cấp quản lý hành chính nào",
+    "answer": "3 cấp"
+  },
+  {
+    "question": "ĐHQGHN hoạt động theo cơ chế nào",
+    "answer": "Tự chủ"
+  },
+  {
+    "question": "Tòa nhà trụ sở của Đại học Đông Dương nằm ở đâu",
+    "answer": "19 phố Lê Thánh Tông"
+  },
+  {
+    "question": "Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập vào năm nào",
+    "answer": "Không rõ"
+  },
+  {
+    "question": "ĐHQGHN được thành lập trên cơ sở tổ chức lại những trường đại học nào",
+    "answer": "3 trường đại học lớn"
+  },
+  {
+    "question": "Năm nào ĐHQGHN có 04 trường đại học thành viên",
+    "answer": "1999"
+  },
+  {
+    "question": "Khi nào khai giảng khối trung học phổ thông diễn ra?",
+    "answer": "03-05/9/2025"
+  },
+  {
+    "question": "Thời gian bắt đầu năm học mới đối với các khóa đại học chính quy là khi nào?",
+    "answer": "08/9/2025"
+  },
+  {
+    "question": "Khi nào tổ chức nhập học cho sinh viên ĐHCQ QH2025?",
+    "answer": "Trước 01/9/2025"
+  },
+  {
+    "question": "Tổ chức thi phân loại trình độ ngoại ngữ cho sinh viên chính quy QH2025 vào khi nào?",
+    "answer": "05/10/2025"
+  },
+  {
+    "question": "Khi nào tổ chức bảo vệ luận văn thạc sĩ đợt 4 năm 2025?",
+    "answer": "11-12/2025"
+  },
+  {
+    "question": "Thời gian nghỉ Tết nguyên đán là khi nào?",
+    "answer": "09/02-22/02/2026"
+  },
+  {
+    "question": "Khi nào tổ chức kỳ thi học kỳ II cho sinh viên chính quy?",
+    "answer": "Trước 30/6/2026"
+  },
+  {
+    "question": "Thời gian xét tốt nghiệp và trao bằng tốt nghiệp bậc đại học là khi nào?",
+    "answer": "Trước 31/7/2026"
+  },
+  {
+    "question": "What are the core values of the university?",
+    "answer": "Tiên phong"
+  },
+  {
+    "question": "What is the vision of the university by 2045?",
+    "answer": "Trở thành đại học nghiên cứu"
+  },
+  {
+    "question": "What is the name of the exhibition?",
+    "answer": "120 năm Đại học"
+  },
+  {
+    "question": "What is the purpose of the CSS CONNECT 2026 event?",
+    "answer": "Ngày hội Việc làm"
+  },
+  {
+    "question": "Where will the summer exchange program take place?",
+    "answer": "Nga"
+  },
+  {
+    "question": "What is the name of the international student competition?",
+    "answer": "Sáng tạo và Khởi nghiệp"
+  },
+  {
+    "question": "What is the occasion for awarding the Kỷ niệm chương?",
+    "answer": "120 năm truyền thống"
+  },
+  {
+    "question": "At which company will the summer internship take place?",
+    "answer": "Hyundai Motor"
+  },
+  {
+    "question": "Where did Andrew Carnegie emigrate from in 1848",
+    "answer": "Scotland"
+  },
+  {
+    "question": "What was Andrew Carnegie's vision for the school he donated to",
+    "answer": "Educational opportunities"
+  },
+  {
+    "question": "In what year was the first Carnegie Technical Schools class admitted",
+    "answer": "1906"
+  },
+  {
+    "question": "What was the name of the college for women established by Andrew Carnegie",
+    "answer": "Margaret Morrison"
+  },
+  {
+    "question": "When was the first U.S. drama degree awarded at Carnegie Tech",
+    "answer": "1914"
+  },
+  {
+    "question": "What was the name of the student who received the first doctorate in civil engineering",
+    "answer": "Mao Yisheng"
+  },
+  {
+    "question": "In what year did Carnegie Tech merge with the Mellon Institute",
+    "answer": "1967"
+  },
+  {
+    "question": "Where are some of the global campuses and research partnerships of Carnegie Mellon University located",
+    "answer": "Qatar, Silicon Valley"
+  },
+  {
+    "question": "What is the main goal of Carnegie Mellon University's vision and mission",
+    "answer": "Transformative impact"
+  },
+  {
+    "question": "What kind of culture does Carnegie Mellon University aim to cultivate",
+    "answer": "Open cooperative"
+  },
+  {
+    "question": "What are the key aspects of a transformative educational experience",
+    "answer": "Disciplinary knowledge"
+  },
+  {
+    "question": "How does Carnegie Mellon University plan to impact society",
+    "answer": "Regionally nationally globally"
+  },
+  {
+    "question": "What are the core values of Carnegie Mellon University",
+    "answer": "Dedication Impact"
+  },
+  {
+    "question": "Who founded the school that became Carnegie Mellon University",
+    "answer": "Andrew Carnegie"
+  },
+  {
+    "question": "What is the purpose of CMU's Strategic Framework",
+    "answer": "Drive university mission"
+  },
+  {
+    "question": "What kind of environment does Carnegie Mellon University strive to create",
+    "answer": "Inclusive welcoming"
+  }
+]
