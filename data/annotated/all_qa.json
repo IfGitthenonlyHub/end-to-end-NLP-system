@@ -1,10 +1,10 @@
 [
   {
-    "question": "Where is Carnegie Mellon University located",
+    "question": "Where is Carnegie Mellon University located?",
     "answer": "Pittsburgh, Pennsylvania"
   },
   {
-    "question": "What year was Carnegie Mellon University established",
+    "question": "What year was Carnegie Mellon University established?",
     "answer": "1900"
   },
   {
@@ -64,7 +64,7 @@
     "answer": "21-30%"
   },
   {
-    "question": "What is Pittsburgh known as due to its dominant role in the history of the U.S. steel industry",
+    "question": "What is Pittsburgh known as due to its dominant role in the history of the U.S. steel industry?",
     "answer": "Steel City"
   },
   {
@@ -92,7 +92,7 @@
     "answer": "1794"
   },
   {
-    "question": "What was the name of the expedition led by Meriwether Lewis that began preparations in Pittsburgh in 1803",
+    "question": "What was the name of the expedition led by Meriwether Lewis that began preparations in Pittsburgh in 1803?",
     "answer": "Lewis and Clark Expedition"
   },
   {
@@ -185,7 +185,7 @@
   },
   {
     "question": "Xét tuyển thẳng là gì",
-    "answer": "Xét tuyển hồ sơ thí sinh"
+    "answer": "xét tuyển hồ sơ thí sinh và công nhận trúng tuyển đối với những đối tượng xét tuyển thẳng"
   },
   {
     "question": "Thông tin tuyển sinh năm 2026 của trường nào",
@@ -241,7 +241,7 @@
   },
   {
     "question": "Trường Đại học Công nghệ sử dụng kết quả gì để xét tuyển",
-    "answer": "Kỳ thi tốt nghiệp THPT"
+    "answer": "Kỳ thi tốt nghiệp THPT, Kết quả thi đánh giá năng lực, Chứng chỉ quốc tế SAT, Xét tuyển thẳng, Xét tuyển ưu tiên"
   },
   {
     "question": "Chứng chỉ tiếng Anh quốc tế nào được quy đổi thành điểm môn tiếng Anh",
@@ -252,7 +252,7 @@
     "answer": "2 năm"
   },
   {
-    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào",
+    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào?",
     "answer": "1993"
   },
   {
@@ -264,7 +264,7 @@
     "answer": "Hà Nội"
   },
   {
-    "question": "Tiền thân của Đại học Quốc gia Hà Nội là gì",
+    "question": "Tiền thân của Đại học Quốc gia Hà Nội là gì?",
     "answer": "Viện Đại học Đông Dương"
   },
   {
@@ -316,7 +316,7 @@
     "answer": "Cử nhân"
   },
   {
-    "question": "Đại học Quốc gia Hà Nội là trung tâm đào tạo và nghiên cứu khoa học nào",
+    "question": "Đại học Quốc gia Hà Nội là trung tâm đào tạo và nghiên cứu khoa học nào?",
     "answer": "Đa ngành, đa lĩnh vực"
   },
   {
@@ -324,16 +324,12 @@
     "answer": "190 chương trình"
   },
   {
-    "question": "Tỷ lệ quy mô đào tạo sau đại học của ĐHQGHN là bao nhiêu",
+    "question": "Tỷ lệ quy mô đào tạo sau đại học của ĐHQGHN là bao nhiêu?",
     "answer": "33.88%"
   },
   {
     "question": "Số lượng sinh viên tốt nghiệp chương trình đào tạo tài năng của ĐHQGHN mỗi năm là bao nhiêu",
     "answer": "5.000 cử nhân"
-  },
-  {
-    "question": "Các ngành mới của ĐHQGHN bao gồm những lĩnh vực nào",
-    "answer": "Khoa học Môi trường, Toán - Tin"
   },
   {
     "question": "Số lượng học sinh trung học phổ thông năng khiếu về khoa học tự nhiên và ngoại ngữ tốt nghiệp mỗi năm là bao nhiêu",
@@ -344,12 +340,8 @@
     "answer": "Các trường đại học có uy tín cao"
   },
   {
-    "question": "Mục tiêu của ĐHQGHN trong việc đào tạo nguồn nhân lực là gì",
+    "question": "Mục tiêu của ĐHQGHN trong việc đào tạo nguồn nhân lực là gì?",
     "answer": "Đáp ứng yêu cầu phát triển kinh tế - xã hội"
-  },
-  {
-    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào",
-    "answer": "1993"
   },
   {
     "question": "Trường Đại học nào trực tiếp kế thừa truyền thống và cơ sở vật chất của Đại học Đông Dương",
@@ -360,20 +352,20 @@
     "answer": "3 cấp"
   },
   {
-    "question": "ĐHQGHN hoạt động theo cơ chế nào",
-    "answer": "Tự chủ"
+    "question": "ĐHQGHN hoạt động theo cơ chế nào?",
+    "answer": "Tự chủ, tự chịu trách nhiệm cao"
   },
   {
-    "question": "Tòa nhà trụ sở của Đại học Đông Dương nằm ở đâu",
+    "question": "Tòa nhà trụ sở của Đại học Đông Dương nằm ở đâu?",
     "answer": "19 phố Lê Thánh Tông"
   },
   {
     "question": "Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập vào năm nào",
-    "answer": "Không rõ"
+    "answer": "1967"
   },
   {
     "question": "ĐHQGHN được thành lập trên cơ sở tổ chức lại những trường đại học nào",
-    "answer": "3 trường đại học lớn"
+    "answer": "Trường Đại học Tổng hợp Hà Nội, Trường Đại học Sư phạm Hà Nội 1, Trường Đại học Sư phạm Ngoại ngữ Hà Nội"
   },
   {
     "question": "Năm nào ĐHQGHN có 04 trường đại học thành viên",
@@ -420,8 +412,8 @@
     "answer": "Trở thành đại học nghiên cứu"
   },
   {
-    "question": "What is the name of the exhibition?",
-    "answer": "120 năm Đại học"
+    "question": "Tên của triển lãm là gì?",
+    "answer": "120 năm Đại học Quốc gia Hà Nội truyền thống giáo dục tinh hoa và khai phóng"
   },
   {
     "question": "What is the purpose of the CSS CONNECT 2026 event?",
@@ -464,7 +456,7 @@
     "answer": "1914"
   },
   {
-    "question": "What was the name of the student who received the first doctorate in civil engineering",
+    "question": "What was the name of the student who received the first doctorate in civil engineering?",
     "answer": "Mao Yisheng"
   },
   {

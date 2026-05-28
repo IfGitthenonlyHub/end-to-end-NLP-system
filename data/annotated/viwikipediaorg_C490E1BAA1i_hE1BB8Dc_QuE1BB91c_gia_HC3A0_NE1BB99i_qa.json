@@ -1,9 +1,5 @@
 [
   {
-    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào",
-    "answer": "1993"
-  },
-  {
     "question": "Tên tiếng Anh của Đại học Quốc gia Hà Nội là gì",
     "answer": "VNU"
   },
@@ -12,7 +8,7 @@
     "answer": "Hà Nội"
   },
   {
-    "question": "Tiền thân của Đại học Quốc gia Hà Nội là gì",
+    "question": "Tiền thân của Đại học Quốc gia Hà Nội là gì?",
     "answer": "Viện Đại học Đông Dương"
   },
   {

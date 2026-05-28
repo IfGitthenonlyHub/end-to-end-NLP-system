@@ -1,5 +1,9 @@
 [
   {
+    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào?",
+    "answer": "1993"
+  },
+  {
     "question": "Trường Đại học Công nghệ thuộc nào",
     "answer": "Đại học Quốc gia Hà Nội"
   },
@@ -21,7 +25,7 @@
   },
   {
     "question": "Trường Đại học Công nghệ sử dụng kết quả gì để xét tuyển",
-    "answer": "Kỳ thi tốt nghiệp THPT"
+    "answer": "Kỳ thi tốt nghiệp THPT, Kết quả thi đánh giá năng lực, Chứng chỉ quốc tế SAT, Xét tuyển thẳng, Xét tuyển ưu tiên"
   },
   {
     "question": "Chứng chỉ tiếng Anh quốc tế nào được quy đổi thành điểm môn tiếng Anh",

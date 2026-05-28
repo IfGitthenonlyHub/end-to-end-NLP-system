@@ -1,6 +1,6 @@
 [
   {
-    "question": "Đại học Quốc gia Hà Nội là trung tâm đào tạo và nghiên cứu khoa học nào",
+    "question": "Đại học Quốc gia Hà Nội là trung tâm đào tạo và nghiên cứu khoa học nào?",
     "answer": "Đa ngành, đa lĩnh vực"
   },
   {
@@ -8,16 +8,12 @@
     "answer": "190 chương trình"
   },
   {
-    "question": "Tỷ lệ quy mô đào tạo sau đại học của ĐHQGHN là bao nhiêu",
+    "question": "Tỷ lệ quy mô đào tạo sau đại học của ĐHQGHN là bao nhiêu?",
     "answer": "33.88%"
   },
   {
     "question": "Số lượng sinh viên tốt nghiệp chương trình đào tạo tài năng của ĐHQGHN mỗi năm là bao nhiêu",
     "answer": "5.000 cử nhân"
-  },
-  {
-    "question": "Các ngành mới của ĐHQGHN bao gồm những lĩnh vực nào",
-    "answer": "Khoa học Môi trường, Toán - Tin"
   },
   {
     "question": "Số lượng học sinh trung học phổ thông năng khiếu về khoa học tự nhiên và ngoại ngữ tốt nghiệp mỗi năm là bao nhiêu",
@@ -28,7 +24,7 @@
     "answer": "Các trường đại học có uy tín cao"
   },
   {
-    "question": "Mục tiêu của ĐHQGHN trong việc đào tạo nguồn nhân lực là gì",
+    "question": "Mục tiêu của ĐHQGHN trong việc đào tạo nguồn nhân lực là gì?",
     "answer": "Đáp ứng yêu cầu phát triển kinh tế - xã hội"
   }
 ]

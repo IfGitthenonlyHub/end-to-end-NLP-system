@@ -1,9 +1,5 @@
 [
   {
-    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào",
-    "answer": "1993"
-  },
-  {
     "question": "Trường Đại học nào trực tiếp kế thừa truyền thống và cơ sở vật chất của Đại học Đông Dương",
     "answer": "Trường Đại học Tổng hợp Hà Nội"
   },
@@ -12,16 +8,16 @@
     "answer": "3 cấp"
   },
   {
-    "question": "ĐHQGHN hoạt động theo cơ chế nào",
-    "answer": "Tự chủ"
+    "question": "ĐHQGHN hoạt động theo cơ chế nào?",
+    "answer": "Tự chủ, tự chịu trách nhiệm cao"
   },
   {
-    "question": "Tòa nhà trụ sở của Đại học Đông Dương nằm ở đâu",
+    "question": "Tòa nhà trụ sở của Đại học Đông Dương nằm ở đâu?",
     "answer": "19 phố Lê Thánh Tông"
   },
   {
     "question": "Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập vào năm nào",
-    "answer": "Không rõ"
+    "answer": "1967"
   },
   {
     "question": "ĐHQGHN được thành lập trên cơ sở tổ chức lại những trường đại học nào",
