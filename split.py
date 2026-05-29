@@ -47,7 +47,6 @@ def save_to_folders(dataset, folder_path):
     with open(f"{folder_path}/questions.txt", "w", encoding="utf-8") as q_f, \
          open(f"{folder_path}/reference_answers.txt", "w", encoding="utf-8") as a_f:
         for item in dataset:
-            # Clean up newlines just in case
             q = item['question'].strip().replace('\n', ' ')
             a = item['answer'].strip().replace('\n', ' ')
             q_f.write(f"{q}\n")
