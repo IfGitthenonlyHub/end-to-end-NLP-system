@@ -1,66 +1,101 @@
-import json
 import os
-import random
+import json
+import re
+import sys
+from pathlib import Path
+from tqdm import tqdm
+from groq import Groq  
 
-# 1. Configuration
-JSON_FILE = "data/annotated/all_qa.json"
-TEST_RATIO = 0.20  # 20% for Test, 80% for Train
-RANDOM_SEED = 42   # Ensures you get the same result every time you run it
+# ========================= CONFIG =========================
+KNOWLEDGE_DIR = "data\\knowledgebase"
+OUTPUT_DIR = "data\\annotated"
+GROQ_API_KEY = ""
+MODEL_NAME = "llama-3.3-70b-versatile" 
+NUM_QA_PER_DOC = 25
+MAX_CHARS = 10000 
 
-# 2. Language Detection Helper
-def is_vietnamese(text):
-    # Checks for characters unique to Vietnamese
-    vn_chars = "đĐáàảãạăắằẳẵặâấầẩẫậéèẻẽẹêếềểễệíìỉĩịóòỏõọôốồổỗộơớờởỡợúùủũụưứừửữựýỳỷỹỵ"
-    return any(char in vn_chars for char in text)
+client = Groq(api_key=GROQ_API_KEY)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# 3. Load Data
-if not os.path.exists(JSON_FILE):
-    print(f"Error: {JSON_FILE} not found!")
-    exit()
+def clean_document(text: str) -> str:
+    text = re.sub(r'SOURCE:.*?\nTITLE:.*?\n-+', '', text, flags=re.DOTALL)
+    text = re.sub(r'\n+', '\n', text)
+    return text.strip()[:MAX_CHARS]
 
-with open(JSON_FILE, "r", encoding="utf-8") as f:
-    all_data = json.load(f)
+PROMPT_TEMPLATE = """You are a Data Annotation Expert. 
 
-# 4. Stratify by Language
-vn_pairs = [item for item in all_data if is_vietnamese(item['question'])]
-en_pairs = [item for item in all_data if not is_vietnamese(item['question'])]
+TASK: Create {num} Question-Answer pairs based on the text provided (you can be flexible with the number within {num} +- 10 question-answer pairs depending on how long the given document is).
 
-print(f"Total pairs found: {len(all_data)}")
-print(f"Detected: {len(vn_pairs)} Vietnamese and {len(en_pairs)} English pairs.")
+STRICT LANGUAGE RULES:
+1. If the input text is in ENGLISH -> The Questions and Answers MUST be in ENGLISH.
+2. If the input text is in VIETNAMESE -> The Questions and Answers MUST be in VIETNAMESE.
+3. DO NOT translate. Use the language of the source document.
 
-# 5. Shuffle and Split
-random.seed(RANDOM_SEED)
-random.shuffle(vn_pairs)
-random.shuffle(en_pairs)
+REQUIREMENTS:
+- Questions don't need to be short like answers, but answers must be concise (1-20 words).
+- Format: Q: [Question] | A: [Answer]
+- No numbering, no introductory text.
 
-vn_split_idx = int(len(vn_pairs) * TEST_RATIO)
-en_split_idx = int(len(en_pairs) * TEST_RATIO)
+DOCUMENT:
+{document}
+"""
 
-# Create subsets
-test_subset = vn_pairs[:vn_split_idx] + en_pairs[:en_split_idx]
-train_subset = vn_pairs[vn_split_idx:] + en_pairs[en_split_idx:]
+def call_groq_api(prompt: str):
+    try:
+        completion = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.2,
+            max_tokens=1000,
+        )
+        return completion.choices[0].message.content
+    except Exception as e:
+        print(f"   [!] Error: {e}")
+        return None
 
-# Final shuffle of the mixed subsets so the files aren't grouped by language
-random.shuffle(test_subset)
-random.shuffle(train_subset)
+def parse_robust(text):
+    qa_list = []
+    # Regex bắt cặp Q: A: linh hoạt
+    pattern = re.compile(r"[Qq]:\s*(.*?)\s*[|:-]\s*[Aa]:\s*(.*)")
+    for line in text.split('\n'):
+        line = re.sub(r'^\d+[\.\s\-]*', '', line.strip()) # Xóa số thứ tự nếu AI tự thêm
+        match = pattern.search(line)
+        if match:
+            qa_list.append({"question": match.group(1).strip(), "answer": match.group(2).strip()})
+    return qa_list
 
-# 6. Save to Folders
-def save_to_folders(dataset, folder_path):
-    os.makedirs(folder_path, exist_ok=True)
-    with open(f"{folder_path}/questions.txt", "w", encoding="utf-8") as q_f, \
-         open(f"{folder_path}/reference_answers.txt", "w", encoding="utf-8") as a_f:
-        for item in dataset:
-            # Clean up newlines just in case
-            q = item['question'].strip().replace('\n', ' ')
-            a = item['answer'].strip().replace('\n', ' ')
-            q_f.write(f"{q}\n")
-            a_f.write(f"{a}\n")
+def generate_qa_for_file(file_path: Path):
+    print(f"Processing: {file_path.name}")
+    with open(file_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    
+    clean_content = clean_document(content)
+    prompt = PROMPT_TEMPLATE.format(num=NUM_QA_PER_DOC, document=clean_content)
 
-save_to_folders(test_subset, "data/test")
-save_to_folders(train_subset, "data/train")
+    response = call_groq_api(prompt)
+    if not response: return []
 
-print("-" * 30)
-print(f"SUCCESS!")
-print(f"Test set: {len(test_subset)} pairs (Randomly balanced)")
-print(f"Train set: {len(train_subset)} pairs (Randomly balanced)")
-print("Files are ready in data/test/ and data/train/")
+    qa_pairs = parse_robust(response)
+    
+    if qa_pairs:
+        output_file = Path(OUTPUT_DIR) / f"{file_path.stem}_qa.json"
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(qa_pairs, f, ensure_ascii=False, indent=2)
+        print(f"[OK] Generated {len(qa_pairs)} pairs")
+    else:
+        print(f"[!] Failed to parse response for {file_path.name}")
+        
+    return qa_pairs
+
+if __name__ == "__main__":
+    all_qa = []
+    txt_files = list(Path(KNOWLEDGE_DIR).glob("*.txt"))
+    
+    for txt_file in tqdm(txt_files):
+        qa = generate_qa_for_file(txt_file)
+        all_qa.extend(qa)
+
+    if all_qa:
+        with open(Path(OUTPUT_DIR) / "all_qa.json", "w", encoding="utf-8") as f:
+            json.dump(all_qa, f, ensure_ascii=False, indent=2)
+        print(f"\nCreated {len(all_qa)} question-answer pairs.")

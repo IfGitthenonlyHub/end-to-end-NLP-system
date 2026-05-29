@@ -1,34 +1,70 @@
 [
   {
     "question": "Đối tượng nào được tuyển sinh vào chương trình Cử nhân ngành Kinh tế – Tài chính?",
-    "answer": "Thí sinh Việt Nam hoặc nước ngoài"
+    "answer": "Thí sinh là người Việt Nam hoặc nước ngoài đã tốt nghiệp Trung học phổ thông."
   },
   {
     "question": "Phạm vi tuyển sinh của Trường ĐHNN – ĐHQGHN là gì?",
-    "answer": "Cả nước và nước ngoài"
+    "answer": "Tuyển sinh trên phạm vi cả nước và nước ngoài."
   },
   {
     "question": "Điều kiện xét tuyển sử dụng kết quả kỳ thi tốt nghiệp THPT là gì?",
-    "answer": "Điểm xét tuyển từ 22,5"
+    "answer": "Điểm xét tuyển = [(Điểm môn 1 + Điểm môn 2 + (Điểm Ngoại ngữ x 2))/4 x 3] + điểm ưu tiên."
   },
   {
-    "question": "Phương thức xét tuyển sử dụng kết quả học tập Trung học phổ thông là gì?",
-    "answer": "Tổng điểm trung bình"
+    "question": "Chỉ tiêu tuyển sinh cho phương thức xét tuyển sử dụng kết quả học tập Trung học phổ thông là bao nhiêu?",
+    "answer": "100 chỉ tiêu."
   },
   {
-    "question": "Chỉ tiêu tuyển sinh cho phương thức xét tuyển sử dụng kết quả kỳ thi tốt nghiệp THPT là bao nhiêu?",
-    "answer": "175 chỉ tiêu"
+    "question": "Điều kiện xét tuyển sử dụng kết quả học tập Trung học phổ thông là gì?",
+    "answer": "Tổng điểm trung bình kết quả học tập lớp 10, lớp 11, lớp 12."
   },
   {
     "question": "Học phí của chương trình Cử nhân ngành Kinh tế – Tài chính là bao nhiêu?",
-    "answer": "65.000.000đ/1 năm"
+    "answer": "Dự kiến 65.000.000đ/1 năm."
   },
   {
-    "question": "Trường nào cấp bằng Cử nhân khoa học ngành Kinh tế – Tài chính?",
-    "answer": "Đại học Southern New Hampshire"
+    "question": "Trường cấp bằng cử nhân – ngôn ngữ đào tạo cho chương trình này là gì?",
+    "answer": "ĐH Southern New Hampshire (Hoa Kỳ)."
+  },
+  {
+    "question": "Tổ hợp môn xét tuyển cho chương trình Cử nhân ngành Kinh tế – Tài chính là gì?",
+    "answer": "A01, D01, D78, D14."
   },
   {
     "question": "Thời gian đào tạo của chương trình Cử nhân ngành Kinh tế – Tài chính là bao lâu?",
-    "answer": "04 năm"
+    "answer": "04 năm."
+  },
+  {
+    "question": "Số môn học chuyên ngành trong chương trình đào tạo là bao nhiêu?",
+    "answer": "40 môn học."
+  },
+  {
+    "question": "Điều kiện để sinh viên được chuyển tiếp sang học tập tại Đại học Southern New Hampshire (Hoa Kỳ) là gì?",
+    "answer": "Đủ điều kiện từ học kỳ chuyên ngành thứ 5 trở đi."
+  },
+  {
+    "question": "Học phí của chương trình đào tạo được thu như thế nào?",
+    "answer": "Thu theo từng học kỳ."
+  },
+  {
+    "question": "Bằng cử nhân ngành Kinh tế – Tài chính do đâu cấp?",
+    "answer": "Đại học Southern New Hampshire (Hoa Kỳ)."
+  },
+  {
+    "question": "Số tín chỉ của chương trình đào tạo Cử nhân ngành Kinh tế – Tài chính là bao nhiêu?",
+    "answer": "120 tín chỉ."
+  },
+  {
+    "question": "Đối tượng nào cần đáp ứng đủ các điều kiện đối tượng tuyển sinh và hồ sơ tuyển sinh?",
+    "answer": "Thí sinh có quốc tịch nước ngoài."
+  },
+  {
+    "question": "Điều kiện xét tuyển sử dụng kết quả kỳ thi Đánh giá năng lực của Đại học Quốc gia Hà Nội năm 2025 là gì?",
+    "answer": "Điểm xét tuyển phải cao hơn hoặc bằng ngưỡng đảm bảo chất lượng đầu vào."
+  },
+  {
+    "question": "Nguyên tắc xét tuyển của Trường ĐHNN – ĐHQGHN là gì?",
+    "answer": "Xét tuyển từ cao xuống thấp đến khi đủ chỉ tiêu."
   }
 ]

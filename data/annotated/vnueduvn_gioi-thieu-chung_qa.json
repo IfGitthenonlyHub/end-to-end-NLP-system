@@ -1,30 +1,94 @@
 [
   {
-    "question": "Đại học Quốc gia Hà Nội là trung tâm đào tạo và nghiên cứu khoa học nào?",
-    "answer": "Đa ngành, đa lĩnh vực"
+    "question": "Đại học Quốc gia Hà Nội là trung tâm đào tạo gì",
+    "answer": "Nghiên cứu khoa học, công nghệ đa ngành"
   },
   {
-    "question": "Số lượng chương trình đào tạo đại học của ĐHQGHN là bao nhiêu",
+    "question": "Số chương trình đào tạo đại học của ĐHQGHN",
     "answer": "190 chương trình"
   },
   {
-    "question": "Tỷ lệ quy mô đào tạo sau đại học của ĐHQGHN là bao nhiêu?",
+    "question": "Tỷ lệ quy mô đào tạo sau đại học của ĐHQGHN",
     "answer": "33.88%"
   },
   {
-    "question": "Số lượng sinh viên tốt nghiệp chương trình đào tạo tài năng của ĐHQGHN mỗi năm là bao nhiêu",
-    "answer": "5.000 cử nhân"
+    "question": "Số lượng cử nhân khoa học ĐHQGHN đào tạo hàng năm",
+    "answer": "Trên 5.000"
   },
   {
-    "question": "Số lượng học sinh trung học phổ thông năng khiếu về khoa học tự nhiên và ngoại ngữ tốt nghiệp mỗi năm là bao nhiêu",
+    "question": "Chất lượng đào tạo của ĐHQGHN",
+    "answer": "Hàng đầu của Việt Nam"
+  },
+  {
+    "question": "Các trường đại học danh tiếng công nhận sinh viên tốt nghiệp ĐHQGHN",
+    "answer": "Đại học Bách khoa Paris, Đại học Paris Sud"
+  },
+  {
+    "question": "Kỹ năng sinh viên ĐHQGHN được trang bị",
+    "answer": "Kiến thức chuyên môn, kỹ năng phân tích"
+  },
+  {
+    "question": "Số ngành, chuyên ngành mới của ĐHQGHN",
+    "answer": "Khoa học Môi trường, Toán - Tin"
+  },
+  {
+    "question": "Số học sinh trung học phổ thông năng khiếu về khoa học tự nhiên tốt nghiệp",
     "answer": "Trên 800"
   },
   {
-    "question": "ĐHQGHN đã phối hợp với các trường đại học nước ngoài nào để đào tạo thạc sỹ",
-    "answer": "Các trường đại học có uy tín cao"
+    "question": "Số huy chương vàng học sinh Trung học phổ thông Chuyên giành được",
+    "answer": "55 huy chương"
   },
   {
-    "question": "Mục tiêu của ĐHQGHN trong việc đào tạo nguồn nhân lực là gì?",
-    "answer": "Đáp ứng yêu cầu phát triển kinh tế - xã hội"
+    "question": "Nhà khoa học hàng đầu thế giới của ĐHQGHN",
+    "answer": "GS. Ngô Bảo Châu"
+  },
+  {
+    "question": "Chương trình đào tạo thạc sỹ của ĐHQGHN",
+    "answer": "Chính sách công, quản lý khoa học công nghệ"
+  },
+  {
+    "question": "Bộ tiêu chuẩn kiểm định chất lượng đào tạo của ĐHQGHN",
+    "answer": "Theo các mức chuẩn quốc gia, khu vực, quốc tế"
+  },
+  {
+    "question": "Đối tượng tham gia chương trình đào tạo, bồi dưỡng của ĐHQGHN",
+    "answer": "Cán bộ của các bộ, ngành"
+  },
+  {
+    "question": "Môn lý luận chính trị được ĐHQGHN bồi dưỡng",
+    "answer": "Cho giảng viên các trường đại học, cao đẳng"
+  },
+  {
+    "question": "Vị trí công tác của sinh viên tốt nghiệp ĐHQGHN",
+    "answer": "Cơ quan quản lý nhà nước, tổ chức chính trị xã hội"
+  },
+  {
+    "question": "Số lượng sinh viên tốt nghiệp làm việc trong doanh nghiệp",
+    "answer": "Ngày càng tăng"
+  },
+  {
+    "question": "Uy tín của ĐHQGHN trong đào tạo nguồn nhân lực",
+    "answer": "Uy tín cao"
+  },
+  {
+    "question": "Yêu cầu phát triển kinh tế - xã hội của đất nước",
+    "answer": "ĐHQGHN góp phần đáp ứng"
+  },
+  {
+    "question": "Sự kiện kỷ niệm 120 năm truyền thống của ĐHQGHN",
+    "answer": "Hội thảo khoa học, triển lãm"
+  },
+  {
+    "question": "Chương trình trao đổi mùa hè tại Nga",
+    "answer": "Tổ chức cho sinh viên"
+  },
+  {
+    "question": "Diễn đàn Luật học Mùa Xuân",
+    "answer": "Lần thứ III"
+  },
+  {
+    "question": "Danh hiệu Nhà giáo Nhân dân, Nhà giáo Ưu tú",
+    "answer": "ĐHQGHN lấy ý kiến góp ý"
   }
 ]

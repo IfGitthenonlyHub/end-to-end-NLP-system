@@ -1,34 +1,138 @@
 [
   {
-    "question": "Trường nào của ĐHQGHN liên kết với Đại học Troy",
-    "answer": "Trường ĐH Kinh tế"
+    "question": "Đào tạo liên kết là gì?",
+    "answer": "Đào tạo liên kết với nước ngoài tại ĐHQGHN"
   },
   {
-    "question": "Quốc gia nào có Đại học Massey",
-    "answer": "New Zealand"
+    "question": "Các chương trình liên kết đào tạo quốc tế của ĐHQGHN bao gồm những gì?",
+    "answer": "Các chương trình đào tạo bậc đại học, thạc sĩ, tiến sĩ"
   },
   {
-    "question": "Chuyên ngành đào tạo của chương trình liên kết với Đại học Uppsala",
-    "answer": "Quản lý công"
+    "question": "Trường ĐH Kinh tế, ĐHQGHN liên kết với trường nào ở Hoa Kỳ?",
+    "answer": "Đại học Troy"
   },
   {
-    "question": "Trình độ đào tạo của chương trình liên kết với Trường Đại học Benedictine",
-    "answer": "Thạc sĩ"
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường ĐH Kinh tế, ĐHQGHN và Đại học Troy?",
+    "answer": "Quản trị Kinh doanh"
   },
   {
-    "question": "Đơn vị nào của ĐHQGHN liên kết với Đại học Picardie Jules Verne",
-    "answer": "Trường ĐH Ngoại ngữ"
+    "question": "Quốc gia nào có nhiều chương trình liên kết đào tạo với ĐHQGHN?",
+    "answer": "Hoa Kỳ"
   },
   {
-    "question": "Chuyên ngành đào tạo của chương trình liên kết với Đại học Southern New Hampshire",
-    "answer": "Kinh tế - Tài chính"
+    "question": "Trường Đại học Benedictine ở đâu?",
+    "answer": "Hoa Kỳ"
   },
   {
-    "question": "Quốc gia nào có Đại học SP Thiểm Tây",
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường Đại học Benedictine và ĐHQGHN?",
+    "answer": "Quản trị kinh doanh"
+  },
+  {
+    "question": "Trường ĐH Ngoại ngữ - ĐHQGHN liên kết với trường nào ở Pháp?",
+    "answer": "Đại học Picardie Jules Verne"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường ĐH Ngoại ngữ - ĐHQGHN và Đại học Picardie Jules Verne?",
+    "answer": "Kinh tế - Quản lý"
+  },
+  {
+    "question": "Số lượng chương trình liên kết đào tạo quốc tế của ĐHQGHN?",
+    "answer": "75 chương trình"
+  },
+  {
+    "question": "Mục đích của đào tạo liên kết?",
+    "answer": "Đào tạo nguồn nhân lực chất lượng cao"
+  },
+  {
+    "question": "Đối tác liên kết của ĐHQGHN?",
+    "answer": "Các trường đại học nước ngoài"
+  },
+  {
+    "question": "Chương trình đào tạo thạc sĩ của ĐHQGHN bao gồm những chuyên ngành nào?",
+    "answer": "Quản trị kinh doanh, Quản lý công, Kinh tế, Tài chính"
+  },
+  {
+    "question": "Trường Đại học Tổng hợp Bordeaux 1 ở đâu?",
+    "answer": "Pháp"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường Đại học Tổng hợp Bordeaux 1 và ĐHQGHN?",
+    "answer": "Vật lý hạt nhân và ứng dụng"
+  },
+  {
+    "question": "Trường ĐH Khoa học Tự nhiên - ĐHQGHN liên kết với trường nào ở Đức?",
+    "answer": "Trường ĐH Kỹ thuật Dresden"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường ĐH Khoa học Tự nhiên - ĐHQGHN và Trường ĐH Kỹ thuật Dresden?",
+    "answer": "Quản lý chất thải và xử lý vùng ô nhiễm"
+  },
+  {
+    "question": "Viện KH CNTT Nhật Bản (JAIST) ở đâu?",
+    "answer": "Nhật Bản"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Viện KH CNTT Nhật Bản (JAIST) và ĐHQGHN?",
+    "answer": "Khoa học và Công nghệ Nanô"
+  },
+  {
+    "question": "Trường Đại học HELP ở đâu?",
+    "answer": "Malaysia"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường Đại học HELP và ĐHQGHN?",
+    "answer": "Kinh doanh, Kế toán"
+  },
+  {
+    "question": "Trường ĐH Paris Sud ở đâu?",
+    "answer": "Pháp"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường ĐH Paris Sud và ĐHQGHN?",
+    "answer": "Kinh tế - Quản lý"
+  },
+  {
+    "question": "Trường Đại học East London ở đâu?",
+    "answer": "Anh"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường Đại học East London và ĐHQGHN?",
+    "answer": "Kế toán và tài chính"
+  },
+  {
+    "question": "Trường Đại học Keuka ở đâu?",
+    "answer": "Hoa Kỳ"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường Đại học Keuka và ĐHQGHN?",
+    "answer": "Quản lý"
+  },
+  {
+    "question": "Trường Đại học Nantes ở đâu?",
+    "answer": "Pháp"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường Đại học Nantes và ĐHQGHN?",
+    "answer": "Tài chính, Ngân hàng Bảo hiểm Việt Nam và Đông Nam Á"
+  },
+  {
+    "question": "Trường ĐH Khoa học & Công nghệ Lunghwa ở đâu?",
+    "answer": "Đài Loan"
+  },
+  {
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường ĐH Khoa học & Công nghệ Lunghwa và ĐHQGHN?",
+    "answer": "Quản trị Kinh Doanh"
+  },
+  {
+    "question": "Trường ĐHSP Quảng Tây, TQ ở đâu?",
     "answer": "Trung Quốc"
   },
   {
-    "question": "Trình độ đào tạo của chương trình liên kết với Trường Đại học Quảng Tây",
-    "answer": "Cử nhân"
+    "question": "Chuyên ngành đào tạo của chương trình liên kết giữa Trường ĐHSP Quảng Tây, TQ và ĐHQGHN?",
+    "answer": "Ngôn ngữ và Văn học Hán"
+  },
+  {
+    "question": "Viện tin học Pháp ngữ - ĐHQGHN liên kết với trường nào ở Pháp?",
+    "answer": "ĐH Montesquieu Bordeaux IV"
   }
 ]

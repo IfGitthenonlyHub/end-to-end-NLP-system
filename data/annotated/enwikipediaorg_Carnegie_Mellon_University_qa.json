@@ -1,34 +1,106 @@
 [
   {
-    "question": "Where is Carnegie Mellon University located?",
+    "question": "Where is Carnegie Mellon University located",
     "answer": "Pittsburgh, Pennsylvania"
   },
   {
-    "question": "What year was Carnegie Mellon University established?",
+    "question": "When was Carnegie Mellon University established",
     "answer": "1900"
-  },
-  {
-    "question": "How many students did Carnegie Mellon enroll in 2022",
-    "answer": "15,818"
-  },
-  {
-    "question": "What is the name of the business school at Carnegie Mellon",
-    "answer": "Tepper School"
   },
   {
     "question": "Who founded the Carnegie Technical Schools",
     "answer": "Andrew Carnegie"
   },
   {
-    "question": "What is the name of the college of humanities and social sciences",
-    "answer": "Dietrich College"
+    "question": "What was the original name of Carnegie Mellon University",
+    "answer": "Carnegie Technical Schools"
   },
   {
-    "question": "In what year did Carnegie Mellon launch the \"Insp!re Innovation\" campaign",
-    "answer": "2003"
+    "question": "How many colleges does Carnegie Mellon University have",
+    "answer": "Seven"
   },
   {
-    "question": "Who is the current namesake of the Computational Biology department",
-    "answer": "Ray and Stephanie Lane"
+    "question": "What is the name of the business school at Carnegie Mellon",
+    "answer": "Tepper School of Business"
+  },
+  {
+    "question": "How many students did Carnegie Mellon enroll in 2022",
+    "answer": "15,818"
+  },
+  {
+    "question": "How many faculty members does Carnegie Mellon have",
+    "answer": "Over 1,400"
+  },
+  {
+    "question": "What is Carnegie Mellon's athletic division",
+    "answer": "NCAA Division III"
+  },
+  {
+    "question": "What are the names of the men's and women's teams",
+    "answer": "Tartans"
+  },
+  {
+    "question": "How many Nobel Prize laureates are among Carnegie Mellon's faculty and alumni",
+    "answer": "21"
+  },
+  {
+    "question": "When was the Mellon Institute of Industrial Research founded",
+    "answer": "1913"
+  },
+  {
+    "question": "Who founded the Mellon Institute of Industrial Research",
+    "answer": "Andrew Mellon and Richard B. Mellon"
+  },
+  {
+    "question": "When did Carnegie Mellon become a university",
+    "answer": "1967"
+  },
+  {
+    "question": "What is the name of the research institute that survived the merger",
+    "answer": "Carnegie Mellon Research Institute"
+  },
+  {
+    "question": "When was the \"Andrew\" computing network introduced",
+    "answer": "Mid-1980s"
+  },
+  {
+    "question": "What was the first internet domain of Carnegie Mellon",
+    "answer": "cmu.edu"
+  },
+  {
+    "question": "When was the Center for Urban Science and Progress created",
+    "answer": "2012"
+  },
+  {
+    "question": "Who is the current president of Carnegie Mellon University",
+    "answer": "Farnam Jahanian"
+  },
+  {
+    "question": "What is the name of the campaign launched in 2019",
+    "answer": "Make Possible"
+  },
+  {
+    "question": "How much does the Mastercard Foundation partnership support",
+    "answer": "$275.7 million"
+  },
+  {
+    "question": "What is the name of the computational biology department",
+    "answer": "Ray and Stephanie Lane Computational Biology Department"
+  },
+  {
+    "question": "How many acres is the main campus of Carnegie Mellon",
+    "answer": "157.2 acres"
+  },
+  {
+    "question": "What is the name of the student union building",
+    "answer": "Cohon University Center"
+  },
+  {
+    "question": "When was the original Skibo Hall razed",
+    "answer": "1994"
+  },
+  {
+    "question": "What is the name of the large grassy area on campus",
+    "answer": "The Cut"
   }
 ]

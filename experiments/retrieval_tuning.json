@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_size": 650,
+    "chunk_overlap": 80,
+    "top_k": 20,
+    "retrieval_answer_recall": 0.8235294117647058,
+    "num_chunks": 242
+  },
+  {
+    "chunk_size": 300,
+    "chunk_overlap": 80,
+    "top_k": 20,
+    "retrieval_answer_recall": 0.803921568627451,
+    "num_chunks": 450
+  },
+  {
+    "chunk_size": 450,
+    "chunk_overlap": 80,
+    "top_k": 20,
+    "retrieval_answer_recall": 0.803921568627451,
+    "num_chunks": 312
+  },
+  {
+    "chunk_size": 650,
+    "chunk_overlap": 80,
+    "top_k": 10,
+    "retrieval_answer_recall": 0.7745098039215687,
+    "num_chunks": 242
+  },
+  {
+    "chunk_size": 300,
+    "chunk_overlap": 80,
+    "top_k": 10,
+    "retrieval_answer_recall": 0.7647058823529411,
+    "num_chunks": 450
+  },
+  {
+    "chunk_size": 450,
+    "chunk_overlap": 80,
+    "top_k": 10,
+    "retrieval_answer_recall": 0.7549019607843137,
+    "num_chunks": 312
+  },
+  {
+    "chunk_size": 650,
+    "chunk_overlap": 80,
+    "top_k": 5,
+    "retrieval_answer_recall": 0.7254901960784313,
+    "num_chunks": 242
+  },
+  {
+    "chunk_size": 450,
+    "chunk_overlap": 80,
+    "top_k": 5,
+    "retrieval_answer_recall": 0.7156862745098039,
+    "num_chunks": 312
+  },
+  {
+    "chunk_size": 300,
+    "chunk_overlap": 80,
+    "top_k": 5,
+    "retrieval_answer_recall": 0.7058823529411765,
+    "num_chunks": 450
+  }
+]

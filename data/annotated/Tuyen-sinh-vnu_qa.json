@@ -1,30 +1,94 @@
 [
   {
-    "question": "Đại học Quốc gia Hà Nội có chức năng nhiệm vụ gì",
+    "question": "Đại học Quốc gia Hà Nội có chức năng nhiệm vụ gì trong công tác tuyển sinh đại học",
     "answer": "Tổ chức đào tạo đại học"
   },
   {
     "question": "Quy chế tuyển sinh đại học tại Đại học Quốc gia Hà Nội được ban hành dựa trên những căn cứ nào",
-    "answer": "Luật Giáo dục"
+    "answer": "Luật Giáo dục, Luật Giáo dục đại học, Nghị định của Chính phủ"
   },
   {
-    "question": "Quyết định số /QĐ-ĐHQGHN ngày tháng năm 2026 của Giám đốc Đại học Quốc gia Hà Nội có hiệu lực từ khi nào",
-    "answer": "Ngày ký"
+    "question": "Quyết định về việc ban hành Quy chế tuyển sinh đại học tại Đại học Quốc gia Hà Nội có hiệu lực từ khi nào",
+    "answer": "Kể từ ngày ký"
   },
   {
-    "question": "Quy chế tuyển sinh đại học tại Đại học Quốc gia Hà Nội áp dụng cho những đối tượng nào",
-    "answer": "Các đơn vị đào tạo"
+    "question": "Quy chế tuyển sinh đại học tại Đại học Quốc gia Hà Nội áp dụng đối với những đối tượng nào",
+    "answer": "Các đơn vị, tổ chức, cá nhân có liên quan trong công tác tuyển sinh"
+  },
+  {
+    "question": "Phạm vi tuyển sinh được hiểu là gì",
+    "answer": "Các chương trình, ngành, nhóm ngành được tổ chức tuyển sinh"
+  },
+  {
+    "question": "Cổng Thông tin tuyển sinh của Bộ Giáo dục và Đào tạo là gì",
+    "answer": "Giao diện trang điện tử của Hệ thống hỗ trợ tuyển sinh chung"
+  },
+  {
+    "question": "Mã trường trong tuyển sinh là gì",
+    "answer": "Mã quy ước gồm 03 ký tự chữ hoặc số thống nhất toàn quốc"
+  },
+  {
+    "question": "Kỳ thi tuyển sinh là gì",
+    "answer": "Kỳ thi được tổ chức gắn với quy trình xét tuyển"
   },
   {
     "question": "Phương thức tuyển sinh là gì",
-    "answer": "Sử dụng kết quả học tập"
+    "answer": "Việc đơn vị đào tạo sử dụng độc lập hoặc kết hợp các kết quả để xét tuyển"
+  },
+  {
+    "question": "Tiêu chí xét tuyển là gì",
+    "answer": "Những tiêu chí được dùng để xác định điều kiện trúng tuyển của thí sinh"
   },
   {
     "question": "Điểm ưu tiên là gì",
-    "answer": "Mức điểm thí sinh được hưởng"
+    "answer": "Mức điểm thí sinh được hưởng theo khu vực, đối tượng ưu tiên"
+  },
+  {
+    "question": "Điểm cộng là gì",
+    "answer": "Điểm thưởng, điểm xét thưởng, điểm khuyến khích dành cho thí sinh"
   },
   {
     "question": "Xét tuyển thẳng là gì",
-    "answer": "xét tuyển hồ sơ thí sinh và công nhận trúng tuyển đối với những đối tượng xét tuyển thẳng"
+    "answer": "Việc thực hiện quy trình xét tuyển hồ sơ thí sinh và công nhận trúng tuyển"
+  },
+  {
+    "question": "Xét tuyển là gì",
+    "answer": "Quy trình xử lý riêng tại từng đơn vị đào tạo để xác định điều kiện trúng tuyển"
+  },
+  {
+    "question": "Xử lý nguyện vọng là gì",
+    "answer": "Quy trình xử lý trên Hệ thống hỗ trợ tuyển sinh chung để xác định nguyện vọng cao nhất"
+  },
+  {
+    "question": "Điểm trúng tuyển là gì",
+    "answer": "Ngưỡng điểm mà những thí sinh có điểm xét tuyển bằng hoặc cao hơn sẽ đủ điều kiện trúng tuyển"
+  },
+  {
+    "question": "Nguyên tắc cơ bản trong tuyển sinh là gì",
+    "answer": "Công bằng, bình đẳng, cung cấp thông tin đầy đủ, rõ ràng"
+  },
+  {
+    "question": "Quy chế tuyển sinh đại học tại Đại học Quốc gia Hà Nội có những điều khoản nào",
+    "answer": "Điều 1, Điều 2, Điều 3"
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có những đơn vị nào tham gia vào công tác tuyển sinh",
+    "answer": "Các trường thành viên, trường thuộc ĐHQGHN"
+  },
+  {
+    "question": "Thông tin về tuyển sinh đại học tại Đại học Quốc gia Hà Nội được công bố ở đâu",
+    "answer": "Trang điện tử của ĐHQGHN, Cổng Thông tin tuyển sinh của Bộ Giáo dục và Đào tạo"
+  },
+  {
+    "question": "Thí sinh có thể đăng ký nguyện vọng xét tuyển vào những chương trình đào tạo nào",
+    "answer": "Các chương trình đào tạo do ĐHQGHN, trường thành viên cấp bằng"
+  },
+  {
+    "question": "ĐHQGHN có những phương thức tuyển sinh nào",
+    "answer": "Xét tuyển thẳng, xét tuyển, kết hợp các phương thức tuyển sinh"
+  },
+  {
+    "question": "Quy chế tuyển sinh đại học tại ĐHQGHN quy định về ngưỡng bảo đảm chất lượng đầu vào như thế nào",
+    "answer": "Yêu cầu tối thiểu về năng lực học tập để thí sinh có khả năng theo học và hoàn thành chương trình đào tạo"
   }
 ]

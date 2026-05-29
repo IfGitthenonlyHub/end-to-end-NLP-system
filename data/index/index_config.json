@@ -1,0 +1,8 @@
+{
+  "embedding_model": "AITeamVN/Vietnamese_Embedding",
+  "chunk_size": 650,
+  "chunk_overlap": 80,
+  "num_chunks": 242,
+  "index_type": "faiss.IndexFlatIP",
+  "normalized_embeddings": true
+}

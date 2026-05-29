@@ -1,34 +1,110 @@
 [
   {
     "question": "What is the full form of ICML",
-    "answer": "International Conference"
+    "answer": "International Conference on Machine Learning"
   },
   {
-    "question": "In which year was the International Conference on Machine Learning first held",
+    "question": "When was the first ICML conference held",
     "answer": "1980"
   },
   {
-    "question": "What is the frequency of the International Conference on Machine Learning",
-    "answer": "Annual"
-  },
-  {
-    "question": "Is the International Conference on Machine Learning open access",
-    "answer": "Yes"
-  },
-  {
-    "question": "What is the name of the organization that organizes ICML",
-    "answer": "International Machine Learning Society"
-  },
-  {
-    "question": "Where was the first International Workshop on Machine Learning held",
+    "question": "Where was the first ICML conference held",
     "answer": "Carnegie Mellon University"
   },
   {
-    "question": "What is the name of the proceedings where ICML papers are published",
+    "question": "What is the discipline of ICML",
+    "answer": "Machine learning, artificial intelligence"
+  },
+  {
+    "question": "Is ICML open access",
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the frequency of ICML",
+    "answer": "Annual"
+  },
+  {
+    "question": "What is the acceptance rate of ICML",
+    "answer": "21-30%"
+  },
+  {
+    "question": "Who organizes ICML",
+    "answer": "International Machine Learning Society"
+  },
+  {
+    "question": "What is the scope of ICML",
+    "answer": "Machine learning, statistical learning"
+  },
+  {
+    "question": "What is the name of the proceedings of ICML",
     "answer": "Proceedings of Machine Learning Research"
   },
   {
+    "question": "When did ICML transition to a full conference series",
+    "answer": "1993"
+  },
+  {
+    "question": "What is the name of the workshop that ICML grew out of",
+    "answer": "International Workshop on Machine Learning"
+  },
+  {
+    "question": "Who were the organizers of the first ICML workshop",
+    "answer": "Jaime Carbonell, Ryszard S. Michalski, Tom M. Mitchell"
+  },
+  {
+    "question": "What is the name of the website where ICML proceedings are published",
+    "answer": "openreview.net"
+  },
+  {
     "question": "What is the average acceptance rate of ICML",
-    "answer": "21-30%"
+    "answer": "26%"
+  },
+  {
+    "question": "How many papers were submitted to ICML in 2026",
+    "answer": "24,371"
+  },
+  {
+    "question": "What is the name of the committee that designates spotlight papers",
+    "answer": "Not specified"
+  },
+  {
+    "question": "What is the percentage of submitted papers that are designated as spotlight papers",
+    "answer": "2.2%"
+  },
+  {
+    "question": "What is the name of the table that lists the year, location, and submissions of ICML",
+    "answer": "Not specified"
+  },
+  {
+    "question": "How many papers were accepted by ICML in 2025",
+    "answer": "3260"
+  },
+  {
+    "question": "What is the name of the city where ICML was held in 2026",
+    "answer": "Seoul"
+  },
+  {
+    "question": "What is the country where ICML was held in 2026",
+    "answer": "South Korea"
+  },
+  {
+    "question": "What is the name of the company that published research on K-means clustering via PCA",
+    "answer": "Lawrence Berkeley National Laboratory"
+  },
+  {
+    "question": "What is the name of the company that published research on Batch Normalization",
+    "answer": "Google"
+  },
+  {
+    "question": "What is the name of the company that published research on EfficientNet",
+    "answer": "Google Brain"
+  },
+  {
+    "question": "What is the name of the company that published research on CLIP",
+    "answer": "OpenAI"
+  },
+  {
+    "question": "What is the name of the university that published research on Soft Actor-Critic",
+    "answer": "University of Berkeley"
   }
 ]

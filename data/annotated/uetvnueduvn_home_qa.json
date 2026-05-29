@@ -1,38 +1,82 @@
 [
   {
-    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào?",
-    "answer": "1993"
-  },
-  {
-    "question": "Trường Đại học Công nghệ thuộc nào",
+    "question": "Trường Đại học Công nghệ thuộc trường nào",
     "answer": "Đại học Quốc gia Hà Nội"
   },
   {
-    "question": "Năm nào Trường Đại học Công nghệ ban hành Thông tin tuyển sinh đại học chính quy",
-    "answer": "2026"
+    "question": "Ngày ban hành Thông tin tuyển sinh đại học chính quy năm 2026",
+    "answer": "01/04/2026"
   },
   {
-    "question": "Đối tượng dự tuyển vào Trường Đại học Công nghệ là những ai",
+    "question": "Đối tượng dự tuyển vào Trường Đại học Công nghệ",
     "answer": "Người đã tốt nghiệp THPT"
   },
   {
     "question": "Điều kiện dự tuyển vào Trường Đại học Công nghệ",
-    "answer": "Đạt ngưỡng đầu vào"
+    "answer": "Đạt ngưỡng đầu vào, có sức khoẻ"
   },
   {
     "question": "Phương thức tuyển sinh của Trường Đại học Công nghệ",
-    "answer": "Xét tuyển thẳng"
+    "answer": "Xét tuyển thẳng, xét tuyển theo điểm thi"
   },
   {
-    "question": "Trường Đại học Công nghệ sử dụng kết quả gì để xét tuyển",
-    "answer": "Kỳ thi tốt nghiệp THPT, Kết quả thi đánh giá năng lực, Chứng chỉ quốc tế SAT, Xét tuyển thẳng, Xét tuyển ưu tiên"
+    "question": "Nguồn tuyển của Trường Đại học Công nghệ",
+    "answer": "Thí sinh có tổng điểm 03 môn thi tốt nghiệp THPT"
   },
   {
-    "question": "Chứng chỉ tiếng Anh quốc tế nào được quy đổi thành điểm môn tiếng Anh",
-    "answer": "IELTS"
+    "question": "Tổ hợp xét tuyển vào Trường Đại học Công nghệ",
+    "answer": "A00, A01, X06, A02"
   },
   {
-    "question": "Thời hạn sử dụng chứng chỉ tiếng Anh quốc tế",
-    "answer": "2 năm"
+    "question": "Ngành xét tuyển theo tổ hợp A02",
+    "answer": "Công nghệ nông nghiệp, Công nghệ sinh học"
+  },
+  {
+    "question": "Điều kiện xét tuyển theo HSA",
+    "answer": "Đạt ngưỡng đầu vào do Trường ĐHCN quy định"
+  },
+  {
+    "question": "Điều kiện xét tuyển theo SAT",
+    "answer": "Đạt ngưỡng đầu vào do Trường ĐHCN quy định"
+  },
+  {
+    "question": "Quy đổi điểm IELTS/TOEFL iBT",
+    "answer": "Sang thang điểm 10"
+  },
+  {
+    "question": "Mức cộng điểm khuyến khích chứng chỉ tiếng Anh quốc tế",
+    "answer": "Tùy theo trình độ tiếng Anh"
+  },
+  {
+    "question": "Thời hạn sử dụng chứng chỉ tiếng Anh",
+    "answer": "2 năm kể từ ngày thi"
+  },
+  {
+    "question": "Xét tuyển diện dự bị đại học",
+    "answer": "Thí sinh đã hoàn thành chương trình dự bị"
+  },
+  {
+    "question": "Số lượng tuyển sinh diện dự bị đại học",
+    "answer": "1% số lượng tuyển sinh"
+  },
+  {
+    "question": "Ngưỡng đảm bảo chất lượng đầu vào",
+    "answer": "Tổng điểm thi THPT của 3 môn"
+  },
+  {
+    "question": "Quy tắc quy đổi độ lệch điểm ngưỡng đầu vào",
+    "answer": "Theo kế hoạch chung của Bộ GD&ĐT"
+  },
+  {
+    "question": "Thời gian công bố ngưỡng bảo đảm chất lượng đầu vào",
+    "answer": "Trước thời gian kết thúc đăng ký dự tuyển"
+  },
+  {
+    "question": "Điểm trúng tuyển",
+    "answer": "Xác định đối với từng ngành xét tuyển"
+  },
+  {
+    "question": "Thang điểm của điểm trúng tuyển",
+    "answer": "Thang điểm 30"
   }
 ]

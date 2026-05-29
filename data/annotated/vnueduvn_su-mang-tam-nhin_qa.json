@@ -1,34 +1,86 @@
 [
   {
-    "question": "What are the core values of the university?",
-    "answer": "Tiên phong"
+    "question": "Sứ mệnh của tổ chức là gì?",
+    "answer": "Hội tụ và nuôi dưỡng hiền tài"
   },
   {
-    "question": "What is the vision of the university by 2045?",
-    "answer": "Trở thành đại học nghiên cứu"
+    "question": "Tầm nhìn của tổ chức đến năm 2045 là gì?",
+    "answer": "Trở thành đại học nghiên cứu đẳng cấp thế giới"
   },
   {
-    "question": "Tên của triển lãm là gì?",
-    "answer": "120 năm Đại học Quốc gia Hà Nội truyền thống giáo dục tinh hoa và khai phóng"
+    "question": "Giá trị cốt lõi của tổ chức bao gồm những gì?",
+    "answer": "Tiên phong, Sáng tạo, Xuất sắc, Nhân văn, Phụng sự"
   },
   {
-    "question": "What is the purpose of the CSS CONNECT 2026 event?",
-    "answer": "Ngày hội Việc làm"
+    "question": "Mục đích của tổ chức là gì?",
+    "answer": "Dẫn dắt đổi mới sáng tạo"
   },
   {
-    "question": "Where will the summer exchange program take place?",
-    "answer": "Nga"
+    "question": "Tổ chức đang hướng tới tương lai như thế nào?",
+    "answer": "Kiến tạo tương lai nhân loại"
   },
   {
-    "question": "What is the name of the international student competition?",
-    "answer": "Sáng tạo và Khởi nghiệp"
+    "question": "Sự kiện nào đang được tổ chức vào năm 2026?",
+    "answer": "Ngày hội Việc làm và Đổi mới sáng tạo"
   },
   {
-    "question": "What is the occasion for awarding the Kỷ niệm chương?",
-    "answer": "120 năm truyền thống"
+    "question": "Hội thảo khoa học nào đang được tổ chức?",
+    "answer": "Từ Đại học Đông Dương đến Đại học Quốc gia Hà Nội"
   },
   {
-    "question": "At which company will the summer internship take place?",
-    "answer": "Hyundai Motor"
+    "question": "Triển lãm nào đang được tổ chức?",
+    "answer": "120 năm Đại học Quốc gia Hà Nội"
+  },
+  {
+    "question": "Cuộc thi nào đang được tổ chức vào năm 2026?",
+    "answer": "Sáng tạo và Khởi nghiệp sinh viên quốc tế"
+  },
+  {
+    "question": "Chương trình trao đổi mùa hè nào đang được tổ chức?",
+    "answer": "Tại Nga"
+  },
+  {
+    "question": "Chương trình thực tập mùa hè nào đang được tổ chức?",
+    "answer": "Tại Công ty Hyundai Motor, Hàn Quốc"
+  },
+  {
+    "question": "Diễn đàn Luật học nào đang được tổ chức?",
+    "answer": "Mùa Xuân lần thứ III"
+  },
+  {
+    "question": "Việc xét tặng Kỷ niệm chương nào đang được thực hiện?",
+    "answer": "“Vì sự nghiệp phát triển ĐHQGHN”"
+  },
+  {
+    "question": "Mục đích của việc xét tặng Kỷ niệm chương là gì?",
+    "answer": "Nhân dịp kỷ niệm 120 năm truyền thống"
+  },
+  {
+    "question": "Danh hiệu nào đang được xét danh hiệu?",
+    "answer": "Nhà giáo Nhân dân, Nhà giáo Ưu tú"
+  },
+  {
+    "question": "Lần thứ mấy của việc xét danh hiệu Nhà giáo Nhân dân, Nhà giáo Ưu tú?",
+    "answer": "Lần thứ 17 năm 2026"
+  },
+  {
+    "question": "Sự kiện nào đang được tổ chức để kỷ niệm 120 năm truyền thống?",
+    "answer": "Triển lãm và Hội thảo"
+  },
+  {
+    "question": "Tổ chức nào đang vận hành như một tập đoàn tri thức?",
+    "answer": "Đại học Quốc gia Hà Nội"
+  },
+  {
+    "question": "Mục tiêu của tổ chức là gì?",
+    "answer": "Đóng góp quan trọng hiện thực hóa tầm nhìn, mục tiêu phát triển quốc gia"
+  },
+  {
+    "question": "Tổ chức đang thực hiện chiến lược nào?",
+    "answer": "Chiến lược quốc gia"
+  },
+  {
+    "question": "Tổ chức đang hướng tới việc phát triển什么?",
+    "answer": "Nhân lực và tri thức tinh hoa"
   }
 ]

@@ -1,34 +1,174 @@
 [
   {
-    "question": "Tên trường đại học được đề cập trong tài liệu",
-    "answer": "Trường ĐHKHTN"
+    "question": "Tên trường đại học",
+    "answer": "Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội"
   },
   {
     "question": "Địa chỉ trang web của Trường ĐHKHTN",
     "answer": "https://hus.vnu.edu.vn/"
   },
   {
+    "question": "Số điện thoại liên hệ tuyển sinh",
+    "answer": "0886074527"
+  },
+  {
     "question": "Phương thức xét tuyển của Trường ĐHKHTN",
     "answer": "6 phương thức"
   },
   {
-    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT cho ngành Toán học",
+    "question": "Tên của phương thức 1",
+    "answer": "Xét tuyển thẳng"
+  },
+  {
+    "question": "Tên của phương thức 2",
+    "answer": "Xét kết quả thi tốt nghiệp THPT"
+  },
+  {
+    "question": "Tên của phương thức 3",
+    "answer": "Xét kết quả thi đánh giá năng lực"
+  },
+  {
+    "question": "Tên của phương thức 4",
+    "answer": "Sử dụng chứng chỉ quốc tế SAT"
+  },
+  {
+    "question": "Tên của phương thức 5",
+    "answer": "Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế"
+  },
+  {
+    "question": "Tên của phương thức 6",
+    "answer": "Sử dụng phương thức khác"
+  },
+  {
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT của ngành Toán học",
     "answer": "A00; A01; C01; D07; D08; X26"
   },
   {
-    "question": "Tên ngành xét tuyển với mã QHT01",
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT của ngành Toán tin",
+    "answer": "A00; A01; C01; D07; D08; X26"
+  },
+  {
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT của ngành Khoa học máy tính và thông tin",
+    "answer": "A00; A01; C01; D07; D08; X26"
+  },
+  {
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT của ngành Khoa học dữ liệu",
+    "answer": "A00; A01; C01; D07; D08; X26"
+  },
+  {
+    "question": "Địa chỉ công khai quy chế tuyển sinh",
+    "answer": "https://tuyensinh.hus.vnu.edu.vn"
+  },
+  {
+    "question": "Địa chỉ công khai các thông tin về hoạt động của cơ sở đào tạo",
+    "answer": "https://hus.vnu.edu.vn/ba-cong-khai.html"
+  },
+  {
+    "question": "Tên của ngành QHT01",
     "answer": "Toán học"
   },
   {
-    "question": "Địa chỉ email liên hệ tuyển sinh",
-    "answer": "tuvantuyensinh@hus.edu.vn"
+    "question": "Tên của ngành QHT02",
+    "answer": "Toán tin"
   },
   {
-    "question": "Số điện thoại hotline tuyển sinh",
-    "answer": "0886074527"
+    "question": "Tên của ngành QHT98",
+    "answer": "Khoa học máy tính và thông tin"
   },
   {
-    "question": "Tên của phương thức xét tuyển thứ 2",
-    "answer": "Xét kết quả thi tốt nghiệp THPT năm 2026"
+    "question": "Tên của ngành QHT93",
+    "answer": "Khoa học dữ liệu"
+  },
+  {
+    "question": "Tên của ngành QHT03",
+    "answer": "Vật lý học"
+  },
+  {
+    "question": "Tên của ngành QHT04",
+    "answer": "Khoa học vật liệu"
+  },
+  {
+    "question": "Tên của ngành QHT99",
+    "answer": "Công nghệ Bán dẫn"
+  },
+  {
+    "question": "Tên của ngành QHT05",
+    "answer": "Công nghệ kỹ thuật hạt nhân"
+  },
+  {
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT của ngành Vật lý học",
+    "answer": "A00; A01; A02; B00; C01; C02; D07; X06"
+  },
+  {
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT của ngành Khoa học vật liệu",
+    "answer": "A00; A01; A02; B00; C01; C02; D07; X06"
+  },
+  {
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT của ngành Công nghệ Bán dẫn",
+    "answer": "A00; A01; A02; B00; C01; C02; D07; X06"
+  },
+  {
+    "question": "Mã tổ hợp môn xét kết quả thi tốt nghiệp THPT của ngành Công nghệ kỹ thuật hạt nhân",
+    "answer": "A00; A01; A02; B00; C01; C02; D07; X06"
+  },
+  {
+    "question": "Tên của ngành QHT94",
+    "answer": "Kỹ thuật điện tử và tin học"
+  },
+  {
+    "question": "Tên của ngành QHT06",
+    "answer": "Hóa học"
+  },
+  {
+    "question": "Tên của ngành QHT07",
+    "answer": "Công nghệ kỹ thuật hóa học"
+  },
+  {
+    "question": "Tên của ngành QHT43",
+    "answer": "Hóa dược"
+  },
+  {
+    "question": "Tên của ngành QHT08",
+    "answer": "Sinh học"
+  },
+  {
+    "question": "Tên của ngành QHT09",
+    "answer": "Công nghệ sinh học"
+  },
+  {
+    "question": "Tên của ngành QHT81",
+    "answer": "Sinh dược học"
+  },
+  {
+    "question": "Tên của ngành QHT10",
+    "answer": "Địa lý tự nhiên"
+  },
+  {
+    "question": "Tên của ngành QHT91",
+    "answer": "Khoa học thông tin địa không gian"
+  },
+  {
+    "question": "Tên của ngành QHT12",
+    "answer": "Quản lý đất đai"
+  },
+  {
+    "question": "Tên của ngành QHT95",
+    "answer": "Quản lý phát triển đô thị và bất động sản"
+  },
+  {
+    "question": "Tên của ngành QHT13",
+    "answer": "Khoa học môi trường"
+  },
+  {
+    "question": "Tên của ngành QHT15",
+    "answer": "Công nghệ kỹ thuật môi trường"
+  },
+  {
+    "question": "Tên của ngành QHT96",
+    "answer": "Khoa học và công nghệ thực phẩm"
+  },
+  {
+    "question": "Tên của ngành QHT82",
+    "answer": "Môi trường, sức khỏe và"
   }
 ]

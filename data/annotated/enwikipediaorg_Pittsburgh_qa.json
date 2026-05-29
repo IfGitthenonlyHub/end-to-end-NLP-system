@@ -1,34 +1,138 @@
 [
   {
-    "question": "What is Pittsburgh known as due to its dominant role in the history of the U.S. steel industry?",
-    "answer": "Steel City"
+    "question": "What is Pittsburgh known as due to its dominant role in the U.S. steel industry",
+    "answer": "The Steel City"
   },
   {
-    "question": "How many bridges are in Pittsburgh, earning it the nickname \"City of Bridges\"",
-    "answer": "446 bridges"
+    "question": "Where is Pittsburgh located",
+    "answer": "Southwestern Pennsylvania"
   },
   {
-    "question": "What is the population of Pittsburgh according to the 2020 census",
+    "question": "What is the population of Pittsburgh as of the 2020 census",
     "answer": "302,971"
   },
   {
-    "question": "What is the name of the river formed by the confluence of the Allegheny and Monongahela Rivers",
-    "answer": "Ohio River"
+    "question": "What is the name of the combined statistical area that includes parts of Ohio and West Virginia",
+    "answer": "Pittsburgh–Weirton–Steubenville"
   },
   {
-    "question": "Who named the city of Pittsburgh in 1758",
-    "answer": "John Forbes"
+    "question": "What industries has Pittsburgh focused on since the 1990s",
+    "answer": "Healthcare, education, technology"
   },
   {
-    "question": "What was the name of the fort built by General John Forbes in 1758",
+    "question": "How many bridges are in Pittsburgh",
+    "answer": "446"
+  },
+  {
+    "question": "What is Pittsburgh sometimes called due to its bridges",
+    "answer": "City of Bridges"
+  },
+  {
+    "question": "Who named Pittsburgh in 1758",
+    "answer": "Scottish General John Forbes"
+  },
+  {
+    "question": "Who was Pittsburgh named after",
+    "answer": "William Pitt, 1st Earl of Chatham"
+  },
+  {
+    "question": "When was Pittsburgh incorporated as a borough",
+    "answer": "April 22, 1794"
+  },
+  {
+    "question": "What was the name of the town located roughly from where Penn Avenue is today",
+    "answer": "Shannopin's Town"
+  },
+  {
+    "question": "Who was the first known European to enter the region",
+    "answer": "Robert de La Salle"
+  },
+  {
+    "question": "What war began with the future Pittsburgh as its center",
+    "answer": "French and Indian War"
+  },
+  {
+    "question": "Who took the forks in 1758",
+    "answer": "General John Forbes"
+  },
+  {
+    "question": "What was the name of the fort built by the French",
+    "answer": "Fort Duquesne"
+  },
+  {
+    "question": "What was the name of the fort built by the British",
     "answer": "Fort Pitt"
   },
   {
-    "question": "In what year was Pittsburgh incorporated as a borough",
-    "answer": "1794"
+    "question": "Who laid siege to Fort Pitt in 1763",
+    "answer": "Native American tribes"
   },
   {
-    "question": "What was the name of the expedition led by Meriwether Lewis that began preparations in Pittsburgh in 1803?",
+    "question": "Who defeated a portion of the besieging force at the Battle of Bushy Run",
+    "answer": "Colonel Henry Bouquet"
+  },
+  {
+    "question": "What was the name of the treaty that allowed the Penns to purchase the modern region",
+    "answer": "Treaty of Fort Stanwix"
+  },
+  {
+    "question": "When was the city's first civilian local government created",
+    "answer": "April 16, 1771"
+  },
+  {
+    "question": "What was the name of the first constable",
+    "answer": "William Teagarden"
+  },
+  {
+    "question": "What was the name of the first clerk",
+    "answer": "William Troop"
+  },
+  {
+    "question": "What was one of the earliest industries in Pittsburgh",
+    "answer": "Boat building"
+  },
+  {
+    "question": "Who completed a town plan in 1784",
+    "answer": "Thomas Vickroy"
+  },
+  {
+    "question": "What was the name of the newspaper started in 1786",
+    "answer": "Pittsburgh Post-Gazette"
+  },
+  {
+    "question": "What was the name of the academy chartered in 1787",
+    "answer": "Pittsburgh Academy"
+  },
+  {
+    "question": "What was the name of the expedition that began preparations in Pittsburgh in 1803",
     "answer": "Lewis and Clark Expedition"
+  },
+  {
+    "question": "Who purchased a keelboat in Pittsburgh in 1803",
+    "answer": "Meriwether Lewis"
+  },
+  {
+    "question": "What stimulated American industry during the War of 1812",
+    "answer": "Cut off of British goods"
+  },
+  {
+    "question": "What was the outcome of the Great Fire of Pittsburgh in 1845",
+    "answer": "Over a thousand buildings destroyed"
+  },
+  {
+    "question": "What attracted waves of European immigrants to the area",
+    "answer": "Coal mining and iron manufacturing"
+  },
+  {
+    "question": "What was the name of the act that required cooperation from law enforcement in free states",
+    "answer": "Fugitive Slave Act"
+  },
+  {
+    "question": "Who began steel production in 1875",
+    "answer": "Andrew Carnegie"
+  },
+  {
+    "question": "What process did Andrew Carnegie adopt to increase production",
+    "answer": "Bessemer process"
   }
 ]

@@ -1,34 +1,126 @@
 [
   {
-    "question": "Thông tin tuyển sinh năm 2026 của trường nào",
-    "answer": "Trường ĐHKHXH&NV"
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn tuyển sinh những ngành nào năm 2026",
+    "answer": "29 ngành"
   },
   {
-    "question": "Mã xét tuyển của ngành Báo chí là gì",
-    "answer": "QHX01"
+    "question": "Ngành Báo chí của trường Đại học Khoa học Xã hội và Nhân văn có mã ngành gì",
+    "answer": "7320101"
   },
   {
-    "question": "Tổ hợp xét tuyển của ngành Chính trị học",
+    "question": "Tổ hợp xét tuyển của ngành Chính trị học là gì",
     "answer": "D01, D09, D10, D11, D14, D15, C00"
   },
   {
-    "question": "Tên chương trình, ngành xét tuyển của mã QHX03",
-    "answer": "Công tác xã hội"
+    "question": "Ngành Công tác xã hội có tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, C00, A01"
   },
   {
-    "question": "Mã ngành của ngành Đông Nam Á học",
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có tuyển sinh ngành Điện ảnh và nghệ thuật đại chúng không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Đông Nam Á học của trường có mã ngành là gì",
     "answer": "7310620"
   },
   {
-    "question": "Điều kiện để được xét tuyển thẳng",
-    "answer": "Theo Điều 8"
+    "question": "Tổ hợp xét tuyển của ngành Đông phương học là gì",
+    "answer": "D01, D09, D10, D11, D14, D15, D04"
   },
   {
-    "question": "Năm thông báo về việc nhận hồ sơ xét tuyển thí sinh thuộc diện dự bị đại học dân tộc",
-    "answer": "2026"
+    "question": "Ngành Hán Nôm có những tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, D04, C00"
   },
   {
-    "question": "Phương thức tuyển sinh được quy đổi điểm xét tuyển",
-    "answer": "Phương thức 401 và 301"
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có ngành Hàn Quốc học không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Khoa học quản lý có tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, A01"
+  },
+  {
+    "question": "Ngành Lịch sử của trường có mã ngành là gì",
+    "answer": "7229010"
+  },
+  {
+    "question": "Tổ hợp xét tuyển của ngành Lưu trữ học là gì",
+    "answer": "D01, D09, D10, D11, D14, D15, C00, A01"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có tuyển sinh ngành Ngôn ngữ học không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Nhân học có những tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, C00"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có ngành Nhật Bản học không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Quan hệ công chúng có tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, A01"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có tuyển sinh ngành Quản lý thông tin không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Quản trị dịch vụ du lịch và lữ hành có những tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có ngành Quản trị khách sạn không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Quản trị văn phòng có tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, A01"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có tuyển sinh ngành Quốc tế học không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Tâm lý học có những tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có ngành Thông tin - Thư viện không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Tôn giáo học có tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, C00"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có tuyển sinh ngành Triết học không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Văn hóa học có những tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, C00"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có ngành Văn học không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Việt Nam học có tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, C00, A01"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có tuyển sinh ngành Xã hội học không",
+    "answer": "Có"
+  },
+  {
+    "question": "Ngành Truyền thông đa phương tiện có những tổ hợp xét tuyển nào",
+    "answer": "D01, D09, D10, D11, D14, D15, A01"
+  },
+  {
+    "question": "Trường Đại học Khoa học Xã hội và Nhân văn có hệ thống trực tuyến để tiếp nhận hồ sơ xét tuyển không",
+    "answer": "Có"
   }
 ]
