@@ -9,7 +9,7 @@ from groq import Groq
 # 1. Configauration
 KNOWLEDGE_DIR = "data\\knowledgebase"
 OUTPUT_DIR = "data\\annotated"
-GROQ_API_KEY = ""
+GROQ_API_KEY = "" # Your acquired Groq API key 
 MODEL_NAME = "llama-3.3-70b-versatile" 
 NUM_QA_PER_DOC = 25
 MAX_CHARS = 10000 
