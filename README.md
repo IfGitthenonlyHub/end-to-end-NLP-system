@@ -90,6 +90,9 @@ python run_rag.py ^
   --retrieve-top-k 20 ^
   --rerank-top-k 3 ^
   --fewshot-k 3 ^
+  --max-context-chars 900 ^
+  --num-ctx 3072 ^
+  --num-predict 24 ^
   --resume
 ```
 
@@ -158,7 +161,7 @@ The assignment submission should include:
 - `data/test/questions.txt`
 - `data/test/reference_answers.txt`
 - `system_outputs/system_output_1.txt`
-- `system_outputs/system_output_2.txt` is the current best local output from the tuned index.
+- `system_outputs/system_output_2.txt`
 - `system_outputs/system_output_3.txt` is the no-RAG closed-book baseline.
 - `README.md`
 

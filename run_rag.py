@@ -142,7 +142,18 @@ def select_fewshot_examples(
     return [train_pairs[int(i)] for i in top_ids]
 
 
-def build_prompt(question: str, contexts: list[dict], fewshots: list[dict]) -> str:
+def limit_contexts(contexts: list[dict], max_chars: int) -> list[dict]:
+    limited = []
+    for chunk in contexts:
+        item = dict(chunk)
+        if max_chars > 0 and len(item["text"]) > max_chars:
+            item["text"] = item["text"][:max_chars].rsplit(" ", 1)[0]
+        limited.append(item)
+    return limited
+
+
+def build_prompt(question: str, contexts: list[dict], fewshots: list[dict], max_context_chars: int) -> str:
+    contexts = limit_contexts(contexts, max_context_chars)
     context_text = "\n\n---\n\n".join(format_chunk_for_prompt(chunk) for chunk in contexts)
     examples = ""
     if fewshots:
@@ -165,7 +176,7 @@ Question: {question}
 Answer:"""
 
 
-def call_ollama(prompt: str, model: str, url: str, timeout: int) -> str:
+def call_ollama(prompt: str, model: str, url: str, timeout: int, num_ctx: int, num_predict: int) -> str:
     payload = {
         "model": model,
         "prompt": prompt,
@@ -173,8 +184,8 @@ def call_ollama(prompt: str, model: str, url: str, timeout: int) -> str:
         "options": {
             "temperature": 0.0,
             "top_p": 0.9,
-            "num_ctx": 4096,
-            "num_predict": 32,
+            "num_ctx": num_ctx,
+            "num_predict": num_predict,
         },
     }
     response = requests.post(url, json=payload, timeout=timeout)
@@ -229,6 +240,9 @@ def main() -> None:
     parser.add_argument("--no-reranker", action="store_true", help="Use FAISS ranking directly without reranking.")
     parser.add_argument("--context-top-k", type=int, default=5, help="Number of FAISS chunks to pass when reranker is disabled.")
     parser.add_argument("--fewshot-k", type=int, default=DEFAULT_FEWSHOT_K)
+    parser.add_argument("--max-context-chars", type=int, default=900)
+    parser.add_argument("--num-ctx", type=int, default=3072)
+    parser.add_argument("--num-predict", type=int, default=24)
     parser.add_argument("--timeout", type=int, default=300)
     parser.add_argument("--resume", action="store_true", help="Continue from an existing output file.")
     args = parser.parse_args()
@@ -278,10 +292,17 @@ def main() -> None:
         else:
             contexts = rerank(question, candidates, reranker, args.rerank_top_k)
         fewshots = select_fewshot_examples(question, train_pairs, train_vectors, query_vector, args.fewshot_k)
-        prompt = build_prompt(question, contexts, fewshots)
+        prompt = build_prompt(question, contexts, fewshots, args.max_context_chars)
         print(f"[{i}/{len(questions)}] Generating answer")
         try:
-            answer = call_ollama(prompt, args.ollama_model, args.ollama_url, args.timeout)
+            answer = call_ollama(
+                prompt,
+                args.ollama_model,
+                args.ollama_url,
+                args.timeout,
+                args.num_ctx,
+                args.num_predict,
+            )
         except requests.RequestException as exc:
             print(f"[{i}/{len(questions)}] Ollama error: {exc}")
             answer = "unknown"
