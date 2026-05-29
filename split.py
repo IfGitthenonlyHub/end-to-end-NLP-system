@@ -9,7 +9,6 @@ RANDOM_SEED = 42
 
 # 2. Language Detection Helper
 def is_vietnamese(text):
-    # Checks for characters unique to Vietnamese
     vn_chars = "đĐáàảãạăắằẳẵặâấầẩẫậéèẻẽẹêếềểễệíìỉĩịóòỏõọôốồổỗộơớờởỡợúùủũụưứừửữựýỳỷỹỵ"
     return any(char in vn_chars for char in text)
 
