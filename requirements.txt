@@ -1,0 +1,11 @@
+beautifulsoup4
+faiss-cpu
+groq
+numpy
+pdfplumber
+protobuf
+requests
+sentence-transformers
+torch
+tqdm
+transformers
