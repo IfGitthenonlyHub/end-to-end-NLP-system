@@ -6,7 +6,7 @@ from pathlib import Path
 from tqdm import tqdm
 from groq import Groq  
 
-# ========================= CONFIG =========================
+# 1. Configauration
 KNOWLEDGE_DIR = "data\\knowledgebase"
 OUTPUT_DIR = "data\\annotated"
 GROQ_API_KEY = ""
@@ -17,6 +17,7 @@ MAX_CHARS = 10000
 client = Groq(api_key=GROQ_API_KEY)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+#2. Functions
 def clean_document(text: str) -> str:
     text = re.sub(r'SOURCE:.*?\nTITLE:.*?\n-+', '', text, flags=re.DOTALL)
     text = re.sub(r'\n+', '\n', text)
@@ -87,6 +88,7 @@ def generate_qa_for_file(file_path: Path):
         
     return qa_pairs
 
+# 3. Main Execution
 if __name__ == "__main__":
     all_qa = []
     txt_files = list(Path(KNOWLEDGE_DIR).glob("*.txt"))

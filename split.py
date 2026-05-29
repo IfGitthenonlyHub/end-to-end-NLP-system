@@ -4,8 +4,8 @@ import random
 
 # 1. Configuration
 JSON_FILE = "data/annotated/all_qa.json"
-TEST_RATIO = 0.25  # 25% for Test, 75% for Train
-RANDOM_SEED = 42   # Ensures you get the same result every time you run it
+TEST_RATIO = 0.25  
+RANDOM_SEED = 42   
 
 # 2. Language Detection Helper
 def is_vietnamese(text):
@@ -36,11 +36,9 @@ random.shuffle(en_pairs)
 vn_split_idx = int(len(vn_pairs) * TEST_RATIO)
 en_split_idx = int(len(en_pairs) * TEST_RATIO)
 
-# Create subsets
 test_subset = vn_pairs[:vn_split_idx] + en_pairs[:en_split_idx]
 train_subset = vn_pairs[vn_split_idx:] + en_pairs[en_split_idx:]
 
-# Final shuffle of the mixed subsets so the files aren't grouped by language
 random.shuffle(test_subset)
 random.shuffle(train_subset)
 

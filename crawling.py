@@ -5,17 +5,14 @@ import urllib3
 import pdfplumber
 from bs4 import BeautifulSoup
 
-# --- 1. CONFIGURATION ---
-# Destination folder for cleaned text files 
+#1. Configuration
 DEST_FOLDER = "data/knowledgebase"
 
-# Added Pittsburgh/CMU English URLs to test bilingual capability
 PDF_FILES = [
     r"pdf\Tuyen-sinh-hus.pdf",
     r"pdf\Tuyen-sinh-vnu.pdf",
 ]
 
-# List of URLs to crawl
 URLS = [
     "https://vnu.edu.vn/gioi-thieu",
     "https://vnu.edu.vn/gioi-thieu/tong-quan/su-mang-tam-nhin",
@@ -33,7 +30,6 @@ URLS = [
     "https://www.cmu.edu/about/vision-mission-values",
 ]
 
-# Phrases to filter out (Bilingual)
 NOISE_PHRASES = [
     r"có thể bạn quan tâm", r"xem thêm", r"tin liên quan", r"bài viết liên quan",
     r"you might also like", r"read more", r"related articles", r"latest news",
@@ -42,13 +38,12 @@ NOISE_PHRASES = [
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# --- 2. CLEANING FUNCTIONS ---
+# 2. Cleaning functions
 
 def clean_text(text):
     """Deep cleans text for RAG processing."""
     if not text: return ""
     
-    # Remove noise phrases line by line
     lines = text.split('\n')
     clean_lines = []
     for line in lines:
@@ -58,7 +53,6 @@ def clean_text(text):
     
     text = "\n".join(clean_lines)
 
-    # Basic cleanup of multiple spaces/newlines
     text = re.sub(r'\n+', '\n', text)
     text = re.sub(r' +', ' ', text)
     
@@ -76,24 +70,20 @@ def table_to_markdown(table):
             md_table += "| " + " | ".join(["---"] * len(row)) + " |\n"
     return md_table
 
-# --- 3. WORKER FUNCTIONS ---
+# 3. Worker functions
 
 def crawl_web(url):
     """Deeply robust crawler with Waterfall targeting for VNU, CMU, and Wikipedia."""
     print(f"--- Crawling: {url}")
     try:
-        # 1. Setup Request
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'}
         response = requests.get(url, headers=headers, timeout=20, verify=False) 
         response.encoding = 'utf-8'
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # 2. Pre-Clean: Remove absolutely useless tags
         for junk in soup(['script', 'style', 'nav', 'footer', 'header', 'aside', 'form', 'button', 'noscript', 'iframe']):
             junk.decompose()
 
-        # 3. Waterfall Targeting: Find the main content area
-        # We try Wikipedia specific, then general article, then specific IDs, then fallback to body
         main_content = soup.find('div', {'class': 'mw-parser-output'}) or \
                        soup.find('div', {'id': 'mw-content-text'}) or \
                        soup.find('article') or \
@@ -106,19 +96,16 @@ def crawl_web(url):
             print(f"   [!] Error: No content container found for {url}")
             return
 
-        # 4. Content Extraction
         stop_sections = [
             "references", "external links", "see also", "further reading", "notes", "bibliography",
             "tài liệu tham khảo", "liên kết ngoài", "xem thêm", "ghi chú", "thư mục", "bài viết liên quan"
         ]
 
         title = soup.title.string if soup.title else "No Title"
-        # Search for text-heavy tags
         elements = main_content.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'li', 'table', 'span'])
         
         content_pieces = []
         for el in elements:
-            # STOP logic: triggers only on H1 or H2 that match stop words exactly
             if el.name in ['h1', 'h2']:
                 header_text = el.get_text().strip().lower().replace('[edit]', '').strip()
                 if header_text in stop_sections:
@@ -130,10 +117,8 @@ def crawl_web(url):
                 if len(table_text) > 30: 
                     content_pieces.append(f"\n[TABLE]\n{table_text}\n")
             else:
-                # Get text but filter out very short UI fragments
                 text = el.get_text().strip()
                 if len(text) > 10: 
-                    # Prevent duplicate lines (common with span inside p)
                     if not content_pieces or text not in content_pieces[-1]:
                         content_pieces.append(text)
 
@@ -141,9 +126,7 @@ def crawl_web(url):
         full_text = "\n\n".join(content_pieces)
         cleaned_content = clean_text(full_text)
         
-        # Final sanity check: if too small, something is wrong
         if len(cleaned_content) < 100:
-            # Emergency fallback: Just grab all paragraphs in the whole body
             print(f"   [!] Targeted extraction failed. Using Emergency Fallback for {url}")
             paras = soup.find_all('p')
             cleaned_content = clean_text("\n\n".join([p.get_text() for p in paras]))
@@ -152,8 +135,6 @@ def crawl_web(url):
             print(f"   [X] Failed: Content is still empty for {url}")
             return
 
-        # 6. Save to File
-        # Shorten filenames to avoid OS errors
         domain = url.split('//')[-1].split('/')[0].replace('.', '')
         page_path = url.split('/')[-1] or "home"
         safe_name = re.sub(r'[^\w\s-]', '', f"{domain}_{page_path}")[:80] + ".txt"
@@ -184,12 +165,10 @@ def process_digital_pdf(pdf_path):
     try:
         with pdfplumber.open(pdf_path) as pdf:
             for i, page in enumerate(pdf.pages):
-                # Extract text
                 page_text = page.extract_text()
                 if page_text:
                     full_content.append(f"--- PAGE {i+1} ---\n{page_text}")
                 
-                # Extract tables
                 tables = page.extract_tables()
                 if tables:
                     for table in tables:
@@ -203,7 +182,7 @@ def process_digital_pdf(pdf_path):
     except Exception as e:
         print(f"   [!] Error processing {pdf_path}: {e}")
 
-# --- 4. EXECUTION ---
+# 4. Execution
 
 if __name__ == "__main__":
     if not os.path.exists(DEST_FOLDER):
