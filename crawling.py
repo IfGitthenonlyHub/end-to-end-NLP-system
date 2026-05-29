@@ -5,7 +5,7 @@ import urllib3
 import pdfplumber
 from bs4 import BeautifulSoup
 
-#1. Configuration
+# 1. Configuration
 DEST_FOLDER = "data/knowledgebase"
 
 PDF_FILES = [

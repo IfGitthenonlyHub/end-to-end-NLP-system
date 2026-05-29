@@ -1,7 +1,7 @@
 import os
 import re
 
-#1. Functions
+# 1. Functions
 def final_clean(text):
     text = re.sub(r'\[\d+\]', '', text)
     text = re.sub(r'\[citation\sneeded\]', '', text)
@@ -39,6 +39,6 @@ def process_knowledge_base(folder):
                     f.write(metadata + "-" * 30 + "\n\n" + cleaned_body)
                 print(f"Cleaned: {filename}")
 
-#2. Execution
+# 2. Execution
 if __name__ == "__main__":
     process_knowledge_base("data/knowledgebase")

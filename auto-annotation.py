@@ -17,7 +17,7 @@ MAX_CHARS = 10000
 client = Groq(api_key=GROQ_API_KEY)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-#2. Functions
+# 2. Functions
 def clean_document(text: str) -> str:
     text = re.sub(r'SOURCE:.*?\nTITLE:.*?\n-+', '', text, flags=re.DOTALL)
     text = re.sub(r'\n+', '\n', text)
